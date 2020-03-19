@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,A&E
-https://peer5.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MTI6MTAgQU0maGFzaF92YWx1ZT02ckRUOW1OTUxVM0c0MEtZOXNscE9nPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+https://peer5.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIwIDEwOjQxOjEyIFBNJmhhc2hfdmFsdWU9NFZ0c1BXR1p1ODlOQ2FMdzhNbzE5dz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MA==
 #EXTINF:-1,ABC
-https://peer1.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MTM6MjUgQU0maGFzaF92YWx1ZT1BbUxUZ2xsanFXZEp5U3F5ZXlYRnNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+https://peer3.ustv.to/ABC/myStream/chunks.m3u8?nimblesessionid=151204092&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIwIDEwOjQyOjU4IFBNJmhhc2hfdmFsdWU9K3VTVkFKSEdRSW9RU214Tlo0TzJZQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9MA==
 #EXTINF:-1,AMC
 https://peer2.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MTM6NTUgQU0maGFzaF92YWx1ZT13YW13ZXpadFRJQ3BjVzg4VTE4L2FnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
 #EXTINF:-1,Animal Planet
