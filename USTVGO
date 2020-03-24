@@ -1,167 +1,257 @@
 #EXTM3U
-#EXTINF:-1,A&E
-https://peer5.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIwIDEwOjQxOjEyIFBNJmhhc2hfdmFsdWU9NFZ0c1BXR1p1ODlOQ2FMdzhNbzE5dz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MA==
-#EXTINF:-1,ABC
-https://peer3.ustv.to/ABC/myStream/chunks.m3u8?nimblesessionid=151204092&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIwIDEwOjQyOjU4IFBNJmhhc2hfdmFsdWU9K3VTVkFKSEdRSW9RU214Tlo0TzJZQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9MA==
-#EXTINF:-1,AMC
-https://peer2.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MTM6NTUgQU0maGFzaF92YWx1ZT13YW13ZXpadFRJQ3BjVzg4VTE4L2FnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Animal Planet
-https://peer3.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDQ6NTU6MTIgQU0maGFzaF92YWx1ZT1lUFdSM2tpVkpTc1hFczBvTTFSbWZRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,BBC America
-https://peer5.ustv.to/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjE6MzIgQU0maGFzaF92YWx1ZT1BUklBZzFpalhPT3FjeTVXUHI2NHRnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,BET
-https://peer3.ustv.to/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjI6MDQgQU0maGFzaF92YWx1ZT1tOHllZUdjaUl4Q0pmUldtNmtyWjJBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Boomerang
-https://peer5.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjI6MzcgQU0maGFzaF92YWx1ZT10Mi94ZVY1ZHpFcFJmdDdONWdNVC9RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Bravo
-https://peer2.ustv.to/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjM6MTEgQU0maGFzaF92YWx1ZT1YQXVRQklFVHk4OEMydlJQNWZNRzl3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Cartoon Network
-https://peer1.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjM6NDQgQU0maGFzaF92YWx1ZT1xZW0zd2dBRFFxMTdMNU52K09lWEd3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,CBS
-https://peer3.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjQ6MDkgQU0maGFzaF92YWx1ZT1FZFFOOGNWL1ZVaDdYRFU2TE9yUmNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,CMT
-https://peer5.ustv.to/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjQ6MzYgQU0maGFzaF92YWx1ZT1oams5Q0Z5bSt4QThCVjRJZ2JwVnhBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,CNBC
-https://peer1.ustv.to/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjU6NDUgQU0maGFzaF92YWx1ZT1PWEhsQzV2a1NHYk5pdFl0KzdKbXdnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,CNN
-https://peer5.ustv.to/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjY6MTUgQU0maGFzaF92YWx1ZT1tY2xpSmR3RENjVVBZeHdnbDhrWk1RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Comedy Central
-https://peer2.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MjY6NDEgQU0maGFzaF92YWx1ZT1QSzNzT0plakhnL2VIeVF5NWpqWXhRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Destination America
-https://peer3.ustv.to/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mjg6MDQgQU0maGFzaF92YWx1ZT1ndXIyYzhhOWZQeUNuNU1wOWNrbTNBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Discovery
-https://peer2.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mjg6MzIgQU0maGFzaF92YWx1ZT1yb2tBU0tkUkh4bzFHanBZODlIdHV3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Disney Channel
-https://peer2.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mjg6NTcgQU0maGFzaF92YWx1ZT1IOVVoM2NGN2gxdU5HcmRhN1ZqZ2NBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Disney Jr
-https://peer1.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mjk6MjQgQU0maGFzaF92YWx1ZT1jY3JYS3c4cVlMMGZVcFFlT3BlOWtRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Disney XD
-https://peer3.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mjk6NTAgQU0maGFzaF92YWx1ZT14aGorc1FlTFVhYm9ZeDc2d01DYnFnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,DIY
-https://peer2.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzA6MTYgQU0maGFzaF92YWx1ZT15U3JhZXV1TDN6YnkzOUxhQUtCRWtBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,E
-https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzA6NDMgQU0maGFzaF92YWx1ZT1MVW5heW01S3crd2lUNGJBeHZXWk9RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,ESPN
-https://peer2.ustv.to/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzE6MDUgQU0maGFzaF92YWx1ZT1FRUwwcEY2YnhYMXZUOGJqSHBtR0JnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,ESPN 2
-https://peer1.ustv.to/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzE6MjcgQU0maGFzaF92YWx1ZT1lczQwYjMxMGwrclpzWGFnU3FNNWJnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Food Network
-https://peer3.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzE6NTIgQU0maGFzaF92YWx1ZT1Kc3RrNlNSZXg1ZU04Qy8rd2QrSHpBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,FOX
-https://peer2.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzI6MTggQU0maGFzaF92YWx1ZT1wak9yUEIvcXdqcVJFaEIvM25SNFlRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Fox Business
-https://peer5.ustv.to/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzI6NDMgQU0maGFzaF92YWx1ZT15djFXaklxWWVSL1NOQnVUaSs0UTd3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Fox News
-https://peer1.ustv.to/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzM6MDkgQU0maGFzaF92YWx1ZT1YSFNaV1FlNDZSZkNwUTkwSXQvc21BPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Fox Sports 1
-https://peer3.ustv.to/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzM6MzYgQU0maGFzaF92YWx1ZT1yS2ZaRmQzaDNzanpLWDVQN2h3TkVRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Fox Sports 2
-https://peer5.ustv.to/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzM6NTcgQU0maGFzaF92YWx1ZT1ScWE5OFd5WUdnMlIzRnlQRk9LZ1JnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Freeform
-https://peer1.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzU6MTUgQU0maGFzaF92YWx1ZT1EaEVuM0hPRGczVlJlaWpjRlpsK2l3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,FX
-https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzU6NDcgQU0maGFzaF92YWx1ZT1nM2dyKzgyQWx1bm9ZN1ZNWGhGOUVnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,FXM
-https://peer5.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzY6MTEgQU0maGFzaF92YWx1ZT1PV2NlUWVDdm9SQWpQaHA2NWdvRWRRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,FXX
-https://peer1.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzY6MzUgQU0maGFzaF92YWx1ZT1tQ0p6M1VqZDlQWjlBSWVyZ2R2eFpBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Golf Channel
-https://peer2.ustv.to/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6MzY6NTkgQU0maGFzaF92YWx1ZT1IZkpNZ2s3SXdOT1ZsZzdwMkRxNzh3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,GSN
-https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzc6MjYgQU0maGFzaF92YWx1ZT03MnJHQllyTGtSZFNSWkFoQ2pNV2RRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Hallmark Channel
-https://peer5.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzc6NDkgQU0maGFzaF92YWx1ZT1NeEJtU3dFR3doNVVJQkF2V05wRW5RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Hallmark Movies & Mysteries
-https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzg6MTggQU0maGFzaF92YWx1ZT1WQTdwb0FqUVdyMG03bGROZG4wY05RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,HBO
-https://peer1.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzg6NDIgQU0maGFzaF92YWx1ZT1wSnh2ZTZuNGJTZG1kRHNpRjFnQjB3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,HGTV
-https://peer3.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzk6MTAgQU0maGFzaF92YWx1ZT1aR2dyL000RDg5Y1RUUXhSNjNtdjlRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,History Channel
-https://peer2.ustv.to/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6Mzk6NDYgQU0maGFzaF92YWx1ZT1nWXFTNTcvaUtkWmdNTmZTZDZUd1BnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,HLN
-https://peer1.ustv.to/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDA6NDQgQU0maGFzaF92YWx1ZT1Nam04V1JpTnBhQlhZcWxDay9ha0hBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0
-w#EXTINF:-1,Investigation Discovery
-https://peer5.ustv.to/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDE6MTEgQU0maGFzaF92YWx1ZT1XdHlqdHY0VVowOStSQjFPcWRUSWNBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Lifetime
-https://peer1.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDI6NDAgQU0maGFzaF92YWx1ZT1GTURabkVXUjd2TjRmQ3pKSTJhS3R3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Lifetime Movies
-https://peer5.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDM6MTMgQU0maGFzaF92YWx1ZT13MXpuNWZiNU9qRVUxeEV5Mm0vN3F3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,MLB Network
-https://peer5.ustv.to/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDM6MzkgQU0maGFzaF92YWx1ZT1NZ0RKNlh4STAyeW1LYURwSFUyblZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Motor Trend
-https://peer2.ustv.to/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDQ6MDIgQU0maGFzaF92YWx1ZT1XVVN5R0xtY1ZaeGVUemV4R0hybEJRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,MSNBC Live Streaming Free
-https://peer3.ustv.to/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDQ6MjggQU0maGFzaF92YWx1ZT1pcWFTQktleUdrelFQR3NGNzZsQXd3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,MTV
-https://peer5.ustv.to/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDQ6NTYgQU0maGFzaF92YWx1ZT0xQ3lVMFZYYXpZTWFZb1JjUkR0aG1RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,NAT GEO WILD
-https://peer2.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDU6MjIgQU0maGFzaF92YWx1ZT10b2VjUXRaMTZrMXNFTXBzYXVFUjF3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,National Geographic
-https://peer1.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDU6NTkgQU0maGFzaF92YWx1ZT1LSlZsVzVLczJUai9HcTRQczVxbXpBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,NBA TV
-https://peer2.ustv.to/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDg6NDYgQU0maGFzaF92YWx1ZT0yTWkrSkthNkM3S0hjNkl2V1E1QU5nPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,NBC
-https://peer5.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NDk6MzMgQU0maGFzaF92YWx1ZT1KajJlZlB2UkNJODZYdEVwSXIrUHpnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,NBC Sports
-https://peer3.ustv.to/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTA6MDAgQU0maGFzaF92YWx1ZT1RWDZ3T1lqUzZIclVpZ29objJXTGx3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,NFL Network
-https://peer2.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTA6MjkgQU0maGFzaF92YWx1ZT1mVVdtNHNSb3p3NC9kbXFRajBhRWRRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Nickelodeon
-https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTE6MjUgQU0maGFzaF92YWx1ZT1tNDN6MWR0T1ZiUmhCdGxkVi9yalpBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Nicktoons
-https://peer3.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTE6NTQgQU0maGFzaF92YWx1ZT1aN083TS9QK2RtdzlXNDRNSlVJN2FRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,One America News Network
-https://peer2.ustv.to/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTI6MjMgQU0maGFzaF92YWx1ZT13TzUwOG5JT2hDTmtMYnExQlZNSjh3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,OWN
-https://peer2.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTI6NTAgQU0maGFzaF92YWx1ZT1JUXN6OEVVeG13OEgwUFozRHdvMmlBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Oxygen
-https://peer2.ustv.to/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTM6MTQgQU0maGFzaF92YWx1ZT03dzUwWVhPVDRYUGlJK1lqWUdwWldBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Paramount Network
-https://peer3.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTM6NDQgQU0maGFzaF92YWx1ZT1UbGVEZXkxWkxQV2VTRXd6aG96WmZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,PBS
-https://peer5.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTQ6MTkgQU0maGFzaF92YWx1ZT1uK0hhV0s0eExxL1pJOWZhMkJZNFVRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,POP
-https://peer1.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTU6MDggQU0maGFzaF92YWx1ZT1rckROeHVSanAybjVxa1lZS3hvTUV3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Science
-https://peer3.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTU6NTYgQU0maGFzaF92YWx1ZT1jek1JNHdxMWlxbURHalROOUg2YWxnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Showtime
-https://peer1.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTY6NDIgQU0maGFzaF92YWx1ZT1MOHZWM3FMTUlLd29Bb2ZOY0tmeTJ3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Starz
-https://peer1.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTc6MDkgQU0maGFzaF92YWx1ZT1MejBndjAySWFheG9mNDRwdmduKzRnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Sundance
-https://peer2.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTc6NDEgQU0maGFzaF92YWx1ZT1nMmwrQmVuR2g3MlhSQ1VONWlKQXpRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Syfy
-https://peer2.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTg6MDUgQU0maGFzaF92YWx1ZT1xTzNVQ3VjSHJITUJnVGxzVHcvdmdRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,TBS
-https://peer5.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTg6MzQgQU0maGFzaF92YWx1ZT1SSzVLenZKNS9Db0JGOWFhaE9wZWlnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,TCM
-https://peer3.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTk6MDEgQU0maGFzaF92YWx1ZT0zRTNmazQ2QXFGdHUrU2ZZWDA0dWZ3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Telemundo
-https://peer1.ustv.to/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTk6MjggQU0maGFzaF92YWx1ZT1pYitkRCt4ZllvR3dSZk9JdlpWQVJBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Tennis Channel
-https://peer1.ustv.to/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDU6NTk6NTYgQU0maGFzaF92YWx1ZT1sRlZraDFRWkdkOFN4MnBFMjJjTXBRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,The CW
-https://peer5.ustv.to/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDA6MjIgQU0maGFzaF92YWx1ZT1OckdQYWxnRVY2UFNpNTRuTnAwVWR3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,The Weather Channel
+#EXTINF:-1 tvg-logo="http://img9.downloadapk.net/9/df/db1e5f_0.png" group-title="Tv World", Telemundo PR
+http://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL.png" group-title="Tv World", Musical UP! Latino
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:-1 tvg-logo="http://a5.mzstatic.com/us/r30/Purple4/v4/2d/96/a8/2d96a82c-4300-5675-fad9-4569e768496a/V4HttpAssetRepositoryClient-mzl.fooshnox.png-8034347769263066604.png" group-title="Tv World", Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,TLC
-https://peer1.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDE6NTEgQU0maGFzaF92YWx1ZT1HR2NVMm5xdEJrSXRIZ2JXaXhTS213PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,TNT
-https://peer3.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDI6NDAgQU0maGFzaF92YWx1ZT1jV1VnUXlLNjJSUUsvcTNtWDJIQlZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Travel
-https://peer1.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDM6MzAgQU0maGFzaF92YWx1ZT1MNUVCRmFaVkNvWnVDMzJDR0xDM0JBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Tru TV
-https://peer1.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDQ6MTkgQU0maGFzaF92YWx1ZT1IRXlsVDJQVHc1YzI2NjNsa2lIU3ZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,TV Land
-https://peer2.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDQ6NTAgQU0maGFzaF92YWx1ZT1PSU42S2lRRVI1L3ZTSTJuY3QxNXB3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,Univision
-https://peer3.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDU6MTkgQU0maGFzaF92YWx1ZT1BZEptakJQYWZwWWFmYlZWcUcyREFRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,USA Network
-https://peer1.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDY6MDkgQU0maGFzaF92YWx1ZT1ubFRpeStCZHVQL21LbjhzNVdvZ0dBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,VH1
-https://peer2.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDY6MzQgQU0maGFzaF92YWx1ZT1lUTd2ZDJqd0ZzM0FsZTQzcUFGUnNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,We TV
-https://peer3.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDc6NTMgQU0maGFzaF92YWx1ZT1oTTZ0ZUcydEswK2tBSDU4d3RUUGJBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
-#EXTINF:-1,WWE Network
-https://peer1.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIwIDY6MDg6MjUgQU0maGFzaF92YWx1ZT00anRkUm5ybTJqd2N6bERDTTBsMGNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="English Channels", MTV USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------|USA|------" tvg-logo="" group-title="United States",------|USA|------
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3168
+#EXTINF:-1 tvg-id="" tvg-name="USA:-----|GENERAL|--------------------------------" tvg-logo="" group-title="United States",USA:-----|GENERAL|--------------------------------
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/60607
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="United States",US001:A&E-HD
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3167
+#EXTINF:-1 tvg-name="US: AE | UHD" tvg-id="ae.us.eastern.us" group-title="USA NETWORK TV",US: AE | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/357
+#EXTINF:-1 tvg-name="US: ADULT SWIM (west) } SD" tvg-id="adultswim.us" group-title="USA NETWORK TV",US: ADULT SWIM (west) } SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73772
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US006:AMC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="United States",US006:AMC-HD
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3162
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="US007:ANIMAL-PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" group-title="United States",US007:ANIMAL-PLANET
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3161
+#EXTINF:-1 tvg-name="US: ANIMAL PLANET (west)  | HD" tvg-id="animal.planet.us.west.us" group-title="USA NETWORK TV",US: ANIMAL PLANET (west)  | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73773
+#EXTINF:-1 tvg-name="US: AUDIENCE NETWORK | HD" tvg-id="audience.network.us" group-title="USA NETWORK TV",US: AUDIENCE NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/412
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC-America" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="United States",US008:BBC-America
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3160
+#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="US010:BET-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US010BET-HD.png" group-title="United States",US010:BET-HD
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3158
+#EXTINF:-1 tvg-name="US: BET | UHD" tvg-id="US: BET EAST" group-title="USA NETWORK TV",US: BET | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2641
+#EXTINF:-1 tvg-name="US: BET (West) | HD" tvg-id="bet.pacific.us" group-title="USA NETWORK TV",US: BET (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/279
+#EXTINF:-1 tvg-name="US: BET GOSPEL | SD" tvg-id="US: BET EAST" group-title="USA NETWORK TV",US: BET GOSPEL | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/10438
+#EXTINF:-1 tvg-name="US: BET HER | HD" tvg-id="bet.her.us" group-title="USA NETWORK TV",US: BET HER | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/344
+#EXTINF:-1 tvg-name="US: BET SOUL | HD" tvg-id="US: BET SOUL" group-title="USA NETWORK TV",US: BET SOUL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/400
+#EXTINF:-1 tvg-name="US: BET Her | UHD" tvg-id="US: BET HER" group-title="USA NETWORK TV",US: BET Her | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/5009
+#EXTINF:-1 tvg-name="US: BET JAMS | SD" tvg-id="US: BET JAMS" group-title="USA NETWORK TV",US: BET JAMS | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/395
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US011:BRAVO-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US011BRAVO-HD.png" group-title="United States",US011:BRAVO-HD
+#EXTINF:-1 tvg-name="US: BRAVO | UHD" tvg-id="US: BRAVO" group-title="USA NETWORK TV",US: BRAVO | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/347
+#EXTINF:-1 tvg-name="US: BRAVO (East) | HD" tvg-id="US: BRAVO" group-title="USA NETWORK TV",US: BRAVO (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2642
+#EXTINF:-1 tvg-name="US: BRAVO (East) | HD" tvg-id="US: BRAVO" group-title="USA NETWORK TV",US: BRAVO (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2642
+#EXTINF:-1 tvg-name="US: COMEDY CENTRAL | HD" tvg-id="comedycentral.us" group-title="USA NETWORK TV",US: COMEDY CENTRAL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/282
+#EXTINF:-1 tvg-name="US: COMEDY CENTRAL (west)  | HD" tvg-id="comedycentral.us" group-title="USA NETWORK TV",US: COMEDY CENTRAL (west)  | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73779
+#EXTINF:-1 tvg-name="US: COMEDY TV | UHD" tvg-id="comedy.tv.us" group-title="USA NETWORK TV",US: COMEDY TV | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/411
+#EXTINF:-1 tvg-name="US: COOKING CHANNEL | HD" tvg-id="US: COOKING CHANNEL" group-title="USA NETWORK TV",US: COOKING CHANNEL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/11452
+#EXTINF:-1 tvg-id="cartoon.network.usa.pacific.us" tvg-name="US016:CARTOON-NETWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US016CARTOON-NETWORK.png" group-title="United States",US016:CARTOON-NETWORK
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3152
+#EXTINF:-1 tvg-name="US: CRIME  INVESTIGATION | HD" tvg-id="crimeinvestigation.us" group-title="USA NETWORK TV",US: CRIME  INVESTIGATION | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2659
+#EXTINF:-1 tvg-id="" tvg-name="US018:CBSN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US018CBSN-HD.png" group-title="United States",US018:CBSN-HD
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3150
+#EXTINF:-1 tvg-id="CNBC" tvg-name="US020:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="United States",US020:CNBC
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3148
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US021:CNN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN-HD.png" group-title="United States",US021:CNN-HD
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3147
+#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="US022:COMEDY-CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US022COMEDY-CENTRAL.png" group-title="United States",US022:COMEDY-CENTRAL
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3146
+#EXTINF:-1 tvg-name="US: COZI TV | HD" tvg-id="US: COZI TV" group-title="USA NETWORK TV",US: COZI TV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/327
+#EXTINF:-1 tvg-name="US: CNBC | HD" tvg-id="cnbc.us" group-title="USA NEWS",US: CNBC | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/427
+#EXTINF:-1 tvg-name="US: CNN INTERNATIONAL | HD" tvg-id="US: CNN" group-title="USA NEWS",US: CNN INTERNATIONAL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/439
+#EXTINF:-1 tvg-name="US: CNN | HD" tvg-id="US: CNN" group-title="USA NEWS",US: CNN | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2646
+#EXTINF:-1 tvg-name="US: MSNBC | UHD" tvg-id="US: MSNBC" group-title="USA NEWS",US: MSNBC | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/423
+#EXTINF:-1 tvg-name="US: BLOOMBERG | HD" tvg-id="US: BLOOMBERG" group-title="USA NEWS",US: BLOOMBERG | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/432
+#EXTINF:-1 tvg-name="US: BLOOMBERG POLITICS LIVE EVENT | HD" tvg-id="bloomberg.tv.usa.us" group-title="USA NEWS",US: BLOOMBERG POLITICS LIVE EVENT | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/442
+#EXTINF:-1 tvg-name="US: ONE AMERICA NEWS NETWORK | HD" tvg-id="US: ONE AMERICA NEWS" group-title="USA NEWS",US: ONE AMERICA NEWS NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/443
+#EXTINF:-1 tvg-name="US: MSNBC | HD" tvg-id="US: MSNBC" group-title="USA NEWS",US: MSNBC | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2645
+#EXTINF:-1 tvg-name="US: ABC NEWS LIVE EAST | HD" tvg-id="abc.eastern.us" group-title="USA NEWS",US: ABC NEWS LIVE EAST | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/433
+#EXTINF:-1 tvg-name="US: C-SPAN | HD" tvg-id="c.span.us" group-title="USA NEWS",US: C-SPAN | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/384
+#EXTINF:-1 tvg-name="US: C-SPAN 2 | HD" tvg-id="c.span.2.us" group-title="USA NEWS",US: C-SPAN 2 | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/385
+#EXTINF:-1 tvg-name="US: THE WEATHER CHANNEL | HD" tvg-id="US: WEATHER CHANNEL" group-title="USA NEWS",US: THE WEATHER CHANNEL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/330
+#EXTINF:-1 tvg-name="US: CNBC WORLD | UHD" tvg-id="US: CNBC WORLD" group-title="USA NEWS",US: CNBC WORLD | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/426
+#EXTINF:-1 tvg-name="US: C-SPAN 3 | SD" tvg-id="cspan3.us" group-title="USA NEWS",US: C-SPAN 3 | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/386
+#EXTINF:-1 tvg-name="US: CBS NEWS | HD" tvg-id="cbs.eastern.us" group-title="USA NEWS",US: CBS NEWS | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/440
+#EXTINF:-1 tvg-name="US: CNN | UHD" tvg-id="US: CNN" group-title="USA NEWS",US: CNN | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/425
+#EXTINF:-1 tvg-name="US: FOX | HD" tvg-id="fox.eastern.us" group-title="USA NEWS",US: FOX | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/429
+#EXTINF:-1 tvg-name="US: FOX BUSINESS NETWORK | HD" tvg-id="US: FOX BUSINESS" group-title="USA NEWS",US: FOX BUSINESS NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/424
+#EXTINF:-1 tvg-name="US: FOX NEWS CHANNEL | HD" tvg-id="US: FOX NEWS" group-title="USA NEWS",US: FOX NEWS CHANNEL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/430
+#EXTINF:-1 tvg-name="US: BBC WORLD NEWS | HD" tvg-id="bbc.world.north.america.us" group-title="USA NEWS",US: BBC WORLD NEWS | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/438
+#EXTINF:-1 tvg-name="US: FUSE | HD" tvg-id="US: FUSE" group-title="USA NETWORK TV",US: FUSE | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/284
+#EXTINF:-1 tvg-name="US: HEROES AND ICONS | SD" tvg-id="heroesandiconstv.us" group-title="USA NETWORK TV",US: HEROES AND ICONS | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/13137
+#EXTINF:-1 tvg-name="US: CMT | HD" tvg-id="US: CMT" group-title="USA NETWORK TV",US: CMT | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/280
+#EXTINF:-1 tvg-name="US: COWBOY CHANNEL | HD" tvg-id="thecowboychannel.us" group-title="USA NETWORK TV",US: COWBOY CHANNEL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/389
+#EXTINF:-1 tvg-name="US: DIY NETWORK | HD" tvg-id="US: DIY NETWORK" group-title="USA NETWORK TV",US: DIY NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/299
+#EXTINF:-1 tvg-name="US: GREAT AMERICAN COUNTRY | HD" tvg-id="greatamericancountry.us" group-title="USA NETWORK TV",US: GREAT AMERICAN COUNTRY | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/13259
+#EXTINF:-1 tvg-name="US: GRIT TV | SD" tvg-id="US: GRIT" group-title="USA NETWORK TV",US: GRIT TV | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/381
+#EXTINF:-1 tvg-name="US: GAME SHOW NETWORK | HD" tvg-id="game.show.network.east.us" group-title="USA NETWORK TV",US: GAME SHOW NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/287
+#EXTINF:-1 tvg-name="US: ET | UHD" tvg-id="" group-title="USA NETWORK TV",US: ET | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/76447
+#EXTINF:-1 tvg-name="US: ESCAPE | HD" tvg-id="US: ESCAPE" group-title="USA NETWORK TV",US: ESCAPE | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/391
+#EXTINF:-1 tvg-name="US: FOOD NETWORK (West)  | HD" tvg-id="foodnetwork.us" group-title="USA NETWORK TV",US: FOOD NETWORK (West)  | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73781
+#EXTINF:-1 tvg-name="US: FOOD NETWORK | HD" tvg-id="US: FOOD NETWORK EAST" group-title="USA NETWORK TV",US: FOOD NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/301
+#EXTINF:-1 tvg-name="US: FX (East) | HD" tvg-id="US: FX EAST" group-title="USA NETWORK TV",US: FX (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/285
+#EXTINF:-1 tvg-name="US: FX (WEST) | HD" tvg-id="US: FX WEST" group-title="USA NETWORK TV",US: FX (WEST) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/365
+#EXTINF:-1 tvg-name="US: FXX | HD" tvg-id="fxx.usa.eastern.us" group-title="USA NETWORK TV",US: FXX | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/286
+#EXTINF:-1 tvg-name="US: FXX (West) | HD" tvg-id="US: FXX EAST" group-title="USA NETWORK TV",US: FXX (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/364
+#EXTINF:-1 tvg-name="US: FYI | HD" tvg-id="US: FYI" group-title="USA NETWORK TV",US: FYI | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2652
+#EXTINF:-1 tvg-name="US: FYI | UHD" tvg-id="US: FYI" group-title="USA NETWORK TV",US: FYI | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/302
+#EXTINF:-1 tvg-name="US: HALLMARK | HD" tvg-id="US: HALLMARK EAST" group-title="USA NETWORK TV",US: HALLMARK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2653
+#EXTINF:-1 tvg-name="US: HALLMARK DRAMA | HD" tvg-id="US: HALLMARK DRAMA" group-title="USA NETWORK TV",US: HALLMARK DRAMA | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/320
+#EXTINF:-1 tvg-name="US: HGTV (East) | HD" tvg-id="US: HGTV EAST" group-title="USA NETWORK TV",US: HGTV (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/4487
+#EXTINF:-1 tvg-name="US: HGTV (West) | HD" tvg-id="hgtv.us" group-title="USA NETWORK TV",US: HGTV (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/303
+#EXTINF:-1 tvg-name="US: HGTV (East) | UHD" tvg-id="US: HGTV EAST" group-title="USA NETWORK TV",US: HGTV (East) | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/5048
+#EXTINF:-1 tvg-name="US: HLN | HD" tvg-id="US: HLN" group-title="USA NETWORK TV",US: HLN | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/319
+#EXTINF:-1 tvg-name="US: IFC | HD" tvg-id="US: IFC" group-title="USA NETWORK TV",US: IFC | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/349
+#EXTINF:-1 tvg-name="US: MTV CLASSIC | SD" tvg-id="US: MTV CLASSIC" group-title="USA NETWORK TV",US: MTV CLASSIC | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/401
+#EXTINF:-1 tvg-name="US: MTV | HD" tvg-id="US: MTV EAST" group-title="USA NETWORK TV",US: MTV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/363
+#EXTINF:-1 tvg-name="US: MTV 2 | HD" tvg-id="US: MTV2" group-title="USA NETWORK TV",US: MTV 2 | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/288
+#EXTINF:-1 tvg-name="US: MTV LIVE | HD" tvg-id="US: MTV LIVE" group-title="USA NETWORK TV",US: MTV LIVE | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/403
+#EXTINF:-1 tvg-name="US: MTV U | HD" tvg-id="US: MTVU" group-title="USA NETWORK TV",US: MTV U | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/402
+#EXTINF:-1 tvg-name="US: ME TV | HD" tvg-id="metv.network.us" group-title="USA NETWORK TV",US: ME TV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/376
+#EXTINF:-1 tvg-name="US: NICK MUSIC | SD" tvg-id="US: NICK MUSIC" group-title="USA NETWORK TV",US: NICK MUSIC | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/399
+#EXTINF:-1 tvg-name="US: OUTDOOR CHANNEL | HD" tvg-id="US: OUTDOOR CHANNEL" group-title="USA NETWORK TV",US: OUTDOOR CHANNEL | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/4570
+#EXTINF:-1 tvg-name="US: OUTSIDE TV | HD" tvg-id="US: OUTSIDE TV" group-title="USA NETWORK TV",US: OUTSIDE TV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/5268
+#EXTINF:-1 tvg-name="US: OVATION | UHD" tvg-id="US: OVATION" group-title="USA NETWORK TV",US: OVATION | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/407
+#EXTINF:-1 tvg-name="US: OWN | HD" tvg-id="US: OWN" group-title="USA NETWORK TV",US: OWN | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2647
+#EXTINF:-1 tvg-name="US: OWN | UHD" tvg-id="US: OWN" group-title="USA NETWORK TV",US: OWN | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/316
+#EXTINF:-1 tvg-name="US: OXYGEN (EAST) | HD" tvg-id="US: OXYGEN EAST" group-title="USA NETWORK TV",US: OXYGEN (EAST) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/305
+#EXTINF:-1 tvg-name="US: OXYGEN WEST | HD" tvg-id="US: OXYGEN WEST" group-title="USA NETWORK TV",US: OXYGEN WEST | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/343
+#EXTINF:-1 tvg-name="US: PARAMOUNT NETWORK | HD" tvg-id="US: PARAMOUNT CHANNEL" group-title="USA NETWORK TV",US: PARAMOUNT NETWORK | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/289
+#EXTINF:-1 tvg-name="US: POP | UHD" tvg-id="US: POP" group-title="USA NETWORK TV",US: POP | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2649
+#EXTINF:-1 tvg-name="US: PBS 13 (New York) | HD" tvg-id="" group-title="USA NETWORK TV",US: PBS 13 (New York) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/13138
+#EXTINF:-1 tvg-name="US: POP | HD" tvg-id="US: POP" group-title="USA NETWORK TV",US: POP | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/307
+#EXTINF:-1 tvg-name="US: REELZ | HD" tvg-id="US: REELZ" group-title="USA NETWORK TV",US: REELZ | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/404
+#EXTINF:-1 tvg-name="US: SUNDANCE TV | HD" tvg-id="US: SUNDANCE" group-title="USA NETWORK TV",US: SUNDANCE TV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/290
+#EXTINF:-1 tvg-name="US: SUNDANCE TV | UHD" tvg-id="US: SUNDANCE" group-title="USA NETWORK TV",US: SUNDANCE TV | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/11437
+#EXTINF:-1 tvg-name="US: SYFY | HD" tvg-id="US: SYFY EAST" group-title="USA NETWORK TV",US: SYFY | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/4460
+#EXTINF:-1 tvg-name="US: SYFY WEST | HD" tvg-id="US: SYFY WEST" group-title="USA NETWORK TV",US: SYFY WEST | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/359
+#EXTINF:-1 tvg-name="US: TBS (East) | HD" tvg-id="US: TBS EAST" group-title="USA NETWORK TV",US: TBS (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/361
+#EXTINF:-1 tvg-name="US: TBS (West) | SD" tvg-id="US: TBS WEST" group-title="USA NETWORK TV",US: TBS (West) | SD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/362
+#EXTINF:-1 tvg-name="US: TLC | HD" tvg-id="US: TLC EAST" group-title="USA NETWORK TV",US: TLC | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/309
+#EXTINF:-1 tvg-name="US: TLC WEST | HD" tvg-id="US: TLC EAST" group-title="USA NETWORK TV",US: TLC WEST | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/360
+#EXTINF:-1 tvg-name="US: TNT (East) | HD" tvg-id="US: TNT EAST" group-title="USA NETWORK TV",US: TNT (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/368
+#EXTINF:-1 tvg-name="US: TNT (East) | UHD" tvg-id="US: TNT EAST" group-title="USA NETWORK TV",US: TNT (East) | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2656
+#EXTINF:-1 tvg-name="US: TNT (West) | HD" tvg-id="US: TNT EAST" group-title="USA NETWORK TV",US: TNT (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/346
+#EXTINF:-1 tvg-name="US: TRAVEL CHANNEL (West) | HD" tvg-id="US: TRAVEL CHANNEL WEST" group-title="USA NETWORK TV",US: TRAVEL CHANNEL (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73970
+#EXTINF:-1 tvg-name="US: TRU TV EAST | HD" tvg-id="US: TRUTV EAST" group-title="USA NETWORK TV",US: TRU TV EAST | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2657
+#EXTINF:-1 tvg-name="US: TRU TV EAST | UHD" tvg-id="US: TRUTV EAST" group-title="USA NETWORK TV",US: TRU TV EAST | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/291
+#EXTINF:-1 tvg-name="US: TV ONE | UHD" tvg-id="tvone.us" group-title="USA NETWORK TV",US: TV ONE | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/70666
+#EXTINF:-1 tvg-name="US: TV ONE | HD" tvg-id="tvone.us" group-title="USA NETWORK TV",US: TV ONE | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/84895
+#EXTINF:-1 tvg-name="US: TV LAND (West) | HD" tvg-id="US: TV LAND WEST" group-title="USA NETWORK TV",US: TV LAND (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/73971
+#EXTINF:-1 tvg-name="US: UP TV | HD" tvg-id="US: UPTV" group-title="USA NETWORK TV",US: UP TV | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/11798
+#EXTINF:-1 tvg-name="US: USA NETWORK | UHD" tvg-id="US: USA NETWORK EAST" group-title="USA NETWORK TV",US: USA NETWORK | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/2658
+#EXTINF:-1 tvg-name="US: USA NETWORK (East) | HD" tvg-id="US: USA NETWORK EAST" group-title="USA NETWORK TV",US: USA NETWORK (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/11457
+#EXTINF:-1 tvg-name="US: USA NETWORK (West) | HD" tvg-id="US: USA NETWORK WEST" group-title="USA NETWORK TV",US: USA NETWORK (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/293
+#EXTINF:-1 tvg-name="US: VH1 (East) | HD" tvg-id="US: VH1 EAST" group-title="USA NETWORK TV",US: VH1 (East) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/12522
+#EXTINF:-1 tvg-name="US: VH1 (East) | UHD" tvg-id="US: VH1 EAST" group-title="USA NETWORK TV",US: VH1 (East) | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/3969
+#EXTINF:-1 tvg-name="US: VH1 (West) | HD" tvg-id="US: VH1 WEST" group-title="USA NETWORK TV",US: VH1 (West) | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/294
+#EXTINF:-1 tvg-name="US: VICELAND | HD" tvg-id="US: VICELAND" group-title="USA NETWORK TV",US: VICELAND | HD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/11458
+#EXTINF:-1 tvg-name="US: VICELAND | UHD" tvg-id="US: VICELAND" group-title="USA NETWORK TV",US: VICELAND | UHD
+http://i1.iptv.bingo:1337/1011946376/EW5bxwtTnf/311
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3157
+#EXTINF:-1 tvg-id="viceland.usa.us" tvg-name="US015:Viceland" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US015Viceland.png" group-title="United States",US015:Viceland
+http://a1.hdflix.live:8880/testz816/jhzmtXtbzP/3153
