@@ -10,9 +10,17 @@
 </link>
 </item>
 <item>
-<title>CNN International</title>
-<thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
-<link>http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8</link>
+
+<item>
+<title>BET</title>
+<thumbnail>'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Bet.png?raw=true'</thumbnail>
+<link>http://ustvgo.tv/?p=1362.m3u8</link>
+</item>
+
+<item>
+<title>Boomerang</title>
+<thumbnail>'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Boomerang.png?raw=true'</thumbnail>
+<link>http://ustvgo.tv/?p=1391/playlist.m3u8</link>
 </item>
 
 <item>
