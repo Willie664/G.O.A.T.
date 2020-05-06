@@ -1,200 +1,316 @@
-[
-{"title":"Intro","id":"onair","file":"https://od.lk/s/MTlfMjI2Njg2OTBf/intro.mp4","poster":"http://www.reloltv.com/images/reloltv-pause.gif0"},
-{"title":"<span class='mdi mdi-loading mdi-spin' style='color:#007bff'></span>&nbsp;&nbsp; RedBull TV","id":"redbull","file":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8","poster":"http://www.reloltv.com/images/reloltv-pause.gif"},
-{"title":"<span class='mdi mdi-loading mdi-spin' style='color:#007bff'></span>&nbsp;&nbsp;Time Square <sup>webcam</sup>","id":"onair2","file":"https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8"},
-   {"title":"<span class='mdi mdi-trophy' style='color:#007bff'></span>&nbsp;&nbsp; Sports &nbsp;<sup>en</sup>","folder":
-      [
-{"title":"ESPN","id":"espn","file":"https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8"},
-	  {"title":"ESPN 2","id":"espn2","file":"http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/189.m3u8"},
-	  {"title":"Eurosport","id":"eurosport","file":"http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8"},
-	  {"title":"FightBox ","id":"fightbox","file":"http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8"},
-	  {"title":"FightSports","file":"http://210.210.155.35/session/5eef8c7c-db91-11e9-9394-b743b0a1ab1f/uq2663/h/h05/index.m3u8"},
-	  {"title":"Football TV &nbsp;<sup>ru</sup>","file":"http://ott-cdn.ucom.am/s41/index.m3u8"},
-	  {"title":"FOX Sports 1","id":"foxsports1","file":"http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/7146.m3u8"},
-	  {"title":"FOX Sports News","id":"foxsports","file":"https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"},
-	  {"title":"Gone Fishing ","file":"https://central.dashstreams.net/onestudio/gonefishing/playlist.m3u8"},
-	  {"title":"Gone Hunting ","file":"https://central.dashstreams.net/onestudio/hunting/playlist.m3u8"},
-	  {"title":"HUNT TV ","file":"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8"},
-	
-	  {"title":"MLB Network","id":"mlbnetwork","file":"http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8"},
-	  {"title":"MSNBC Golf","id":"msnbcgolf","file":"https://ssx1.herokuapp.com/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8"},
-	  {"title":"NBA Network *","id":"nba","file":"http://peer4.savitar.tv/NBA/myStream/chunks.m3u8?nimblesessionid=3560815&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MTQ6NDkgQU0maGFzaF92YWx1ZT1GNlpHQ2Z5OVB0aEFlUENrWHd4Y3JnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w"},
-	  {"title":"<s style='color:#666'>NBC Sports *</s>","id":"nbcsports","file":"http://peer4.savitar.tv/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDEwOjEwOjQ5IEFNJmhhc2hfdmFsdWU9TFhjSjRONkNHVjN3YTc0dHdYZDlRZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA=="},
-	  {"title":"<s style='color:#666'>NFL Network *</s>","id":"nflred","file":"http://peer3.savitar.tv/NFL/myStream/chunks.m3u8?nimblesessionid=1531172&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MTY6MjYgQU0maGFzaF92YWx1ZT1oWHE0dC80U2JXcGdnR0lTdE9peHFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w"},
-	  {"title":"NHL Network *","id":"nhl","file":"//m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/3474.m3u8"},
-	  
-	
-      {"title":"Stadium","id":"stadium","file":"https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"},
-	
-	  {"title":"The Tennis Channel","id":"tennischannel","file":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"},
-	  {"title":"TSN","id":"tsn","file":"http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/92.m3u8"},
-	
-	  {"title":"WWE Network *","id":"wwe","file":"http://peer2.savitar.tv/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MDg6MjEgQU0maGFzaF92YWx1ZT1NQnE0YTQxWmNEUHJ1QkFEc2MreVhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w"},
-	  
-	
-	  {"title":"ABC News","id":"abcnews","file":"https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
-		  {"title":"Aljazeera","id":"aljazeera","file":"https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8"},
-	  
-	  {"title":"BBC News","id":"bbc","file":"http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8"},
-	  {"title":"BBC Two","id":"bbctwo","file":"https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8"},
-	  {"title":"BBC World News","file":"http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8"},
-	  {"title":"Bloomberg","id":"bloomberg","file":"https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"},
-	  {"title":"Bloomberg Europe","file":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"},
-	
-	  {"title":"CBN","id":"cbn","file":"http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8"},
-	  {"title":"CBSN","id":"cbsn","file":"https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"},
-	  {"title":"Cheddar Big News","id":"cheddarnews","file":"https://live.chdrstatic.com/cheddar/primary/1.m3u8"},
-	  
-	  {"title":"CNBC","id":"cnbc","file":"https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8"},
-	  {"title":"CNBC18","file":"https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"},
-	  {"title":"CNN","id":"cnn","file":"https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8"},
-	
-		  {"title":"ET Now","id":"etnow","file":"http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8"},
-	  
-	  {"title":"FOX Business","file":"http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8"},
-      {"title":"FOX News","file":"http://peer2.savitar.tv/FoxNews/myStream/chunks.m3u8?nimblesessionid=40551648&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MjU6NDcgQU0maGFzaF92YWx1ZT1ERVN0S0JlMDJpVHh3bXRRUEw5Mkd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w"},
-	  {"title":"FOX News Radio","file":"http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_2500_av-b.m3u8"},
-	
-{"title":"MSNBC","id":"msnbc","file":"https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8"},
-	  {"title":"MSNBC","id":"msnbc","file":"https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8"},
-	  {"title":"NBC","id":"nbc","file":"https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/index.m3u8"},
-		  {"title":"Newsmax TV","id":"newsmax","file":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"},
-	  {"title":"NewsNET","file":"http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8"},
-		  {"title":"Newsy","id":"newsy","file":"https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb"},
-	  
-	  {"title":"SKY News","id":"skynews","file":"https://www.youtube.com/watch?v=9Auq9mYxFEE"},
-	
-	  {"title":"Times Now","file":"http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8"},
-		  {"title":"Voice of America","file":"https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8"},
-	  {"title":"WGN-TV News","file":"http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-b.m3u8"},
-	
-	  
-	  {"title":"WPXI","file":"http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"},
-	  {"title":"WSJ","file":"http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8"},
-	  {"title":"WWSB","file":"http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8"}
-	  {"title":"DocuBox","file":"http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"},
-	  {"title":"Docurama","file":"https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8"},
-		  {"title":"History HD","id":"history","file":"http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8"},
-	  {"title":"History 2","id":"history2","file":"http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8"},
-	  {"title":"Knowledge Network","file":"http://knstream1.azureedge.net/knlive/knlive_high.m3u8"},
-	
-	  {"title":"National Geo","id":"natgeo","file":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8"},
-	  {"title":"National Geo People","file":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8"},
-	  {"title":"National Geo Wild","file":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8"},
-	  {"title":"Reelz","file":"http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8"},
-		  {"title":"Smithsonian Channel","file":"http://185.246.209.109:8080/SMITHSONIAN/index.m3u8"},
-	  {"title":"Travel Channel ","file":"http://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(Travel_Channel)/index.m3u8"},
-	  {"title":"Travel TV ","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/1044/index.m3u8"},
-	  {"title":"A3BIKINI","id":"a3bikini","file":"https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8"},
-	  {"title":"Adult Swim","file":"https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8"},
-	  {"title":"Automoto.tv","file":"http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"},
-	  {"title":"BBC One","file":"https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8"},
-	  {"title":"BBC Two","file":"https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8"},
-		  {"title":"Boomerang","file":"http://185.246.209.109:8080/BOOMERANG/index.m3u8"},
-	  	  {"title":"Challenge TV","file":"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8"},
-	  	  {"title":"ET Live","file":"https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"},
-	  
-	  {"title":"FTV Midnight","id":"ftvmidnight","file":"https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8"},
-	  
-	  {"title":"<s style='color:#666'>ITV</s>","file":"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8"},
-	
-	  {"title":"Miami TV","id":"miamitv","file":"https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8"},
-	  {"title":"Miami TV Jenny Live","id":"miamitv2","file":"https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8"},
-	  {"title":"Miami TV Latino","file":"https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8"},
-	  
-	  {"title":"Models Inc.","file":"https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8"},
-	  	  {"title":"POP TV","file":"https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8"},
-	  	  {"title":"Runway","file":"http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8"},
-	 
- {"title":"TMZ","file":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8"},
-	  {"title":"VH1","file":"https://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"}
-     
-
-	  {"title":"Filmrise Classics","file":"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8"},
-	  {"title":"Filmrise Crime","file":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8"},
-	  {"title":"Filmrise Family","file":"https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8"},
-	  {"title":"Filmrise Movies","file":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8"},
-	
-	  {"title":"Hallmark Channel","file":"https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935"},
-	  {"title":"Hallmark Movies","file":"https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935"},
-	
-	  {"title":"MyTVToGo Classic","file":"https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8"},
-	  {"title":"MyTVToGo Horrified","file":"https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8"},
-	  {"title":"MyTVToGo Movies","file":"https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8"},
-	  {"title":"MyTVToGo SciFi","file":"https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8"},
-	  {"title":"MyTVToGo Western","file":"https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8"},
-	
-	  {"title":"Star Movies <sup>ar sub </sup>","file":"http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8"},
-	  {"title":"<s style='color:#666'>Sundance</s>","file":"http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8"},
-	  {"title":"<s style='color:#666'>SYFY</s>","file":"http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE5IDg6MzM6MDYgQU0maGFzaF92YWx1ZT1yZVpNZ0QyVjliWG9IMU8xaDJucnBBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w"},
-	  {"title":"The Asylum","file":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8"},
-	  {"title":"The Film Detective","file":"https://distro.akamaized.net/indexfd_1280x720.m3u8"},
-	  {"title":"The Works","file":"https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8"},
-	  {"title":"Thrill TV","file":"http://210.210.155.35/qwr9ew/s/s34/index2.m3u8"},
-	  {"title":"True Movies","file":"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8"},
-	  {"title":"WOW!TV <sup>es</sup>","file":"http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8"},
-	  {"title":"Z Living USA","file":"https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8"}
-	  {"title":"Dancestar TV","file":"https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8"},
-	  
-	  {"title":"MTV Hits","file":"http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8"},
-	  {"title":"Music Choice","file":"http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"},
-	    
-	  {"title":"FOXMIX","file":"http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8"},
-	  {"title":"Q Music","file":"https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8"},
-	  {"title":"V2BEAT TV","file":"http://139.59.166.48:8081/live/live3/playlist.m3u8"}
-      ]
-   },
-   {"title":"<span class='mdi mdi-baby-face-outline' style='color:#007bff'></span>&nbsp;&nbsp; Kids","folder":
-      [
-	  {"title":"Disney Junior","file":"https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a"},
-	  
-	  {"title":"Knowledge Kids","file":"http://knstream1.azureedge.net/knlive/knlive_high.m3u8"},
-	  {"title":"Nick Jr.","file":"http://185.246.209.109:8080/NICKJR/index.m3u8"},
-	  {"title":"<s style='color:#666'>PBS Kids</s>","file":"http://bks40002.gttstreamtv.com/kaceaeei5iaaaaaaakg1pxdaaaaaaaaaaaaed0ahvbretyqg/0000613/GlobalManifest.m3u8"},
-	  {"title":"POP Kids","file":"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8"},
-	  
-	     {"title":"<span class='mdi mdi-video' style='color:#007bff'></span>&nbsp;&nbsp; Webcams","folder":
-	  {"title":"ABC News","file":"https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8"},
-	  {"title":"Bloomberg","file":"https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"},
-	  {"title":"Expo Channel","file":"http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8"},
-	  
-	  {"title":"SKY News Extra 1","file":"https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"},
-	
-	  {"title":"Toon Max TV","file":"http://210.210.155.35/session/8f7243a0-db99-11e9-9eb4-be4382b1421f/qwr9ew/s/s50/01.m3u8"},
-	 
-	  {"title":"SKY Cinema Family","file":"https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8"}
-      ]
-	  {"title":"Animal Planet","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/137/index.m3u8"},
-	  
-	  {"title":"Discovery Science","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/136/index.m3u8"},
-	  	  {"title":"FightBOX","file":"https://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/.m3u8?st=cW9PtpLVOUd51Ik2OZHiBw&e=1569185199"},
-	  {"title":"Food Network","file":"http://92.43.140.249/s18/04.m3u8"},
-	  {"title":"FOX","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/550/index.m3u8"},
-	  {"title":"FOX Life","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/553/index.m3u8"},
-	  {"title":"Nat Geographic","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/133/index.m3u8"},
-	  {"title":"Nat Geo Wild","file":"http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/133/index.m3u8"},
-	 
- 	  {"title":"CNN","file":"http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8"},
-	  {"title":"FOX","file":"http://streams2.livetv.az/turk/fox_stream/playlist.m3u8"},
-	  {"title":"Fox TÃ¼rkiye","file":"http://streams2.livetv.az/turk/fox_stream/playlist.m3u8"},
-	 	  {"title":"TLC TÃ¼rkiye","file":"https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8"},
-	 
-	  {"title":"M2","file":"http://live.m2.tv/hls3/stream.m3u8"},
-	 
-	  {"title":"ABC 7 Los Angeles (KABC)","file":"https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d"},
-	  {"title":"ABC 9 Orlando (WFTV)","file":"http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8"},
-	  {"title":"CBS 4 Miami (WFOR)","file":"http://190.80.3.28/CBS/CBS.isml/index.m3u8"},
-	  {"title":"CBS 7 Ohio (WHIO)","file":"http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8"},
-	  {"title":"CBS 7 Seattle (KIRO)","file":"http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"},
-	  {"title":"<s style='color:#666'>CBS 9 Los Angeles (KCAL)</s>","file":"https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/2d27d887-2b4b-4461-b065-3efe4bd022b9:GRQ/master.m3u8"},
-	  {"title":"CBS 47 Jacksonville (WJAX)","file":"http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8"},
-	  {"title":"CW Boston (WHDH)","file":"https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8"},
-	  {"title":"CW Tampa Bay (WTOG)","file":"http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8"},
-	  {"title":"FOX 23 Tulsa (KOKI)","file":"http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8"},
-	  {"title":"FOX 25 Boston (WFXT)","file":"http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8"},
-	  {"title":"NBC 4 DC (WRCB)","file":"https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-b.m3u8"},
-	  {"title":"NBC 5 Chicago (WMAQ)","file":"http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8"},
-	  {"title":"NBC 11 Pittsburgh (WPXI)","file":"http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"}
-      ]
-   }
-]
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS[/B][/COLOR]</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8$$lsname=CBS (HTTP source #01)</link>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8$$lsname=CBS (HTTP source #02)</link>
+<link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8$$lsname=CBS (HTTP source #03)</link>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$$lsname=CBS (HTTP source #04)</link>
+<link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8$$lsname=CBS (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cbs-live-streaming-free/$$lsname=CBS (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS HD[/B][/COLOR]</title>
+<link>http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8$$lsname=CBS HD (HTTP source #01)</link>
+<link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on$$lsname=CBS HD (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NBC[/B][/COLOR]</title>
+<link>https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8$$lsname=NBC (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nbc-live-streaming-free/$$lsname=NBC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-hd-live-streaming/$$lsname=FOX HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ABC[/B][/COLOR]</title>
+<link>http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8$$lsname=ABC (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/abc-live-streaming-free/$$lsname=ABC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CW[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/the-cw-live-streaming-free/$$lsname=CW (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CW.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PBS[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/pbs-live/$$lsname=PBS (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MSNBC[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/msnbc-live-streaming-free/$$lsname=MSNBC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNBC[/B][/COLOR]</title>
+<link>http://92.43.140.249/s65/04.m3u8$$lsname=CNBC (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cnbc-live-streaming-free/$$lsname=CNBC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
+<link>https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8$$lsname=CNN (HTTP source #01)</link>
+<link>http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8$$lsname=CNN (HTTP source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cnn-live-streaming-free/$$lsname=CNN (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX News[/B][/COLOR]</title>
+<link>https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8$$lsname=FOX News (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-news-live-streaming-free/$$lsname=FOX News (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Channel[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/discovery-channel-live/$$lsname=Discovery Channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TLC[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tlc-live-free/$$lsname=TLC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX 30[/B][/COLOR]</title>
+<link>http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8$$lsname=FOX 30 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX30.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX 32[/B][/COLOR]</title>
+<link>http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8$$lsname=FOX 32 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX32.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Food Network[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/food-network-live-free/$$lsname=Food Network (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tnt-channel-live-free/$$lsname=TNT (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] USA NETWORK[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/usa-network-live/$$lsname=USA NETWORK (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/USANETWORK.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TBS[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tbs-channel-live-free/$$lsname=TBS (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FX[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fx-channel-live/$$lsname=FX (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FX.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/amc-live/$$lsname=AMC (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bravo[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/bravo-channel-live-free/$$lsname=Bravo (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BRAVOTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Lifetime[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/lifetime-channel-live/$$lsname=Lifetime (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LIFETIME.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/ae-networks-live-streaming-free/$$lsname=A&E (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] History[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/history-channel-live/$$lsname=History (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Syfy[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/syfy-channel-live/$$lsname=Syfy (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Comedy Central[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/comedy-central-live-free/$$lsname=Comedy Central (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BET[/B][/COLOR]</title>
+<link>http://espn.tmedia.me/cache/bet.m3u8$$lsname=BET (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BET.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Animal Planet[/B][/COLOR]</title>
+<link>http://80.80.160.168/live/1/live.m3u8$$lsname=Animal Planet (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/animal-planet-live/$$lsname=Animal Planet (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Weather channel[/B][/COLOR]</title>
+<link>http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #01)</link>
+<link>http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #02)</link>
+<link>https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #03)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/the-weather-channel-live-streaming-free/$$lsname=The Weather channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN 2[/B][/COLOR]</title>
+<link>https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8$$lsname=C-SPAN 2 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN[/B][/COLOR]</title>
+<link>https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8$$lsname=C-SPAN (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] WGN America[/B][/COLOR]</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8$$lsname=WGN America (HTTP source #01)</link>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_1000_av-p.m3u8$$lsname=WGN America (HTTP source #02)</link>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8$$lsname=WGN America (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Travel Channel[/B][/COLOR]</title>
+<link>http://80.80.160.168/live/3/live.m3u8$$lsname=Travel Channel (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/travel-channel-live-free/$$lsname=Travel Channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC America[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/bbc-america-live/$$lsname=BBC America (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Euronews[/B][/COLOR]</title>
+<link>http://164.40.161.46:8002/play/s4$$lsname=Euronews (HTTP source #01)</link>
+<link>http://88.216.48.14:80/euronews/live.m3u8$$lsname=Euronews (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC World News[/B][/COLOR]</title>
+<link>http://ott-cdn.ucom.am/s24/index.m3u8$$lsname=BBC World News (HTTP source #01)</link>
+<link>http://188.93.238.153:8000/play/a02d/index.m3u8$$lsname=BBC World News (HTTP source #02)</link>
+<link>https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8$$lsname=BBC World News (HTTP source #03)</link>
+<link>http://92.43.140.249/s24/04.m3u8$$lsname=BBC World News (HTTP source #05)</link>
+<link>plugin://program.plexus/?url=acestream://fa5b6508827ae9568e722762d213414c1eeed7d1&amp;mode=1&amp;name=Acestream+BBC World News$$lsname=BBC World News (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bloomberg[/B][/COLOR]</title>
+<link>https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg (HTTP source #01)</link>
+<link>http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg (HTTP source #02)</link>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8$$lsname=Bloomberg (HTTP source #03)</link>
+<link>https://liveproduseast.global.ssl.fastly.net/btv/desktop/US live.m3u8$$lsname=Bloomberg (HTTP source #04)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bloomberg HD[/B][/COLOR]</title>
+<link>https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Fox Business[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-business-live-streaming-free/$$lsname=Fox Business (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXBUSINESS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN 3[/B][/COLOR]</title>
+<link>https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8$$lsname=C-SPAN 3 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nickelodeon[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nickelodeon-live-streaming-free/$$lsname=Nickelodeon (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/disney-channel-live-streaming-free/$$lsname=Disney Channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Cartoon Network[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cartoon-network-live-streaming-free/$$lsname=Cartoon Network (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NHK World[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://6ec03a9a0ab5b80072dc00cdbf6d73bea094a01d&amp;mode=1&amp;name=Acestream+NHK World$$lsname=NHK World (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NHKWORLD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Live HD[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db3b155eef1bf706f4839c51ea45fef86f11ec6b&amp;mode=1&amp;name=Acestream+MTV Live HD$$lsname=MTV Live HD (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Pop[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e385c73f7df37c9cb47bdece30fe0c13f44c2e84&amp;mode=1&amp;name=Acestream+Pop$$lsname=Pop (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POP.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nat-geo-wild-live/$$lsname=Nat Geo Wild (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] National Geographic[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/national-geographic-live/$$lsname=National Geographic (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Investigation Discovery[/B][/COLOR]</title>
+<link>http://80.80.160.168/live/5/live.m3u8$$lsname=Investigation Discovery (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/investigation-discovery-live-streaming-free/$$lsname=Investigation Discovery (SD source #01)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Classic[/B][/COLOR]</title>
+<link>http://94.46.222.90:2107$$lsname=MTV Classic (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Hallmark Channel[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hallmark-channel-live-streaming-free/$$lsname=Hallmark Channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HALLMART.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Hallmark Movies & Mysteries[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/$$lsname=Hallmark Movies & Mysteries (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HALLMARKMOVIES.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN USA[/B][/COLOR]</title>
+<link>http://espn.tmedia.me/cache/espn1_540.m3u8$$lsname=ESPN USA (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/espn-live-streaming-free/$$lsname=ESPN USA (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN USA HD[/B][/COLOR]</title>
+<link>http://80.80.160.168/live/6/2500000/live.m3u8$$lsname=ESPN USA HD (HTTP source #01)</link>
+<link>http://80.80.160.168/live/6/live.m3u8$$lsname=ESPN USA HD (HTTP source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN 2 USA[/B][/COLOR]</title>
+<link>http://espn.tmedia.me/cache/espn2_540.m3u8$$lsname=ESPN 2 USA (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/espn2-live-streaming-free/$$lsname=ESPN 2 USA (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FS1[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://364864dce75ae8f7a40b6557dc7949b0bf422313&amp;mode=1&amp;name=Acestream+FS1$$lsname=FS1 (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS Sports Network[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cbs-sports-live-free/$$lsname=CBS Sports Network (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSSPORTS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN NEWS[/B][/COLOR]</title>
+<link>http://espn.tmedia.me/cache/espnews.m3u8$$lsname=ESPN NEWS (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNNEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPNU[/B][/COLOR]</title>
+<link>http://espn.tmedia.me/cache/espnu.m3u8$$lsname=ESPNU (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNU.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NFL Network[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nfl-network-live-free/$$lsname=NFL Network (SD source #01)</link>
+<thumbnail>http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NBA[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://ce90df384e16fa59f2519fa9fddee31492042e70&amp;mode=1&amp;name=Acestream+NBA$$lsname=NBA (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MLB Network[/B][/COLOR]</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8$$lsname=MLB Network (HTTP source #01)</link>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8$$lsname=MLB Network (HTTP source #02)</link>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8 $$lsname=MLB Network (HTTP source #03)</link>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8$$lsname=MLB Network (HTTP source #04)</link>
+<link>plugin://program.plexus/?url=acestream://01b26b06f670e6c3020adf549fe2fb841dd3b12e&amp;mode=1&amp;name=Acestream+MLB Network$$lsname=MLB Network (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Golf Channel[/B][/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104$$lsname=The Golf Channel (HTTP source #01)</link>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104$$lsname=The Golf Channel (HTTP source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/golf-channel-live-free/$$lsname=The Golf Channel (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Olympic Channel[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://49669ea3da662eed86224e71e5e48f106e151488&amp;mode=1&amp;name=Acestream+The Olympic Channel$$lsname=The Olympic Channel (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEOLYMPICCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Olympic Channel HD[/B][/COLOR]</title>
+<link>http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8$$lsname=The Olympic Channel HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEOLYMPICCHANNEL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] beIN Sports en Espanol[/B][/COLOR]</title>
+<link>https://fubolive.com/live/beinsports/index.m3u8$$lsname=beIN Sports en Espanol (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSN</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hbo-live-free/$$lsname=HBO (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO2[/B][/COLOR]</title>
+<link>http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8$$lsname=HBO2 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Showtime[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/showtime-live-free/$$lsname=Showtime (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SHOWTIME.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Starz[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/starz-channel-live/$$lsname=Starz (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/STARZ.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE 24H[/B][/COLOR]</title>
+<link>https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8$$lsname=TVE 24H (HTTP source #01)</link>
+<link>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8$$lsname=TVE 24H (HTTP source #02)</link>
+<link>plugin://program.plexus/?url=acestream://92ddcec8e4c785f767792e12f4ebacb59ea13135&amp;mode=1&amp;name=Acestream+TVE 24H$$lsname=TVE 24H (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Antena 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana3.php$$lsname=Antena 3 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] I 24 NEWS EN[/B][/COLOR]</title>
+<link>https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8$$lsname=I 24 NEWS EN (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] I 24 NEWS FR[/B][/COLOR]</title>
+<link>https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8$$lsname=I 24 NEWS FR (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/p1?ch=i24news_fr$$lsname=I 24 NEWS FR (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8$$lsname=TV5 MONDE (HTTP source #01)</link>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #02)</link>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #03)</link>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?isnpLk=10&rebase=on$$lsname=TV5 MONDE (HTTP source #04)</link>
+<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8$$lsname=TV5 MONDE (HTTP source #05)</link>
+<link>plugin://program.plexus/?url=acestream://4a558bac32c1b1b7668c5219c27b1709d2b5b53f&amp;mode=1&amp;name=Acestream+TV5 MONDE$$lsname=TV5 MONDE (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BFM TV[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://2d5c99fd53e2d592a5efbefe44c90e8cad292f1a&amp;mode=1&amp;name=Acestream+BFM TV$$lsname=BFM TV (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DW[/B][/COLOR]</title>
+<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8$$lsname=DW (HTTP source #01)</link>
+<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_3_av-p.m3u8$$lsname=DW (HTTP source #02)</link>
+<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8$$lsname=DW (HTTP source #03)</link>
+<link>http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8$$lsname=DW (HTTP source #04)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.live-stream.tv/online/fernseheneutscheutschewelle.html$$lsname=DW (SD source #01)</link>
+<link>plugin://program.plexus/?url=acestream://4a21aa091528e23bdf3472733442d0cebcfb4cbe&amp;mode=1&amp;name=Acestream+DW$$lsname=DW (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP Internacional[/B][/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8$$lsname=RTP Internacional (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://www.rtp.pt/play/direto/rtpinternacional$$lsname=RTP Internacional (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hls.giize.com/rtp?ch=int$$lsname=RTP Internacional (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RT AMERICA[/B][/COLOR]</title>
+<link>https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8$$lsname=RT AMERICA (HTTP source #01)</link>
+<link>http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live$$lsname=RT AMERICA (HTTP source #02)</link>
+<link>http://rt-usa.secure.footprint.net/1105-inadv-qidx-1k_v5.m3u8$$lsname=RT AMERICA (HTTP source #03)</link>
+<link>http://rt-usa.secure.footprint.net:80/1105-inadv-qidx-4k_v3.m3u8$$lsname=RT AMERICA (HTTP source #04)</link>
+<link>http://rt-usa.secure.footprint.net:80/1105-inadv-qidx-1k_v3.m3u8$$lsname=RT AMERICA (HTTP source #05)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Globo[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://ekostreams.co/ch/bobo.php$$lsname=Globo (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://ekostreams.co/ch/record.php$$lsname=RECORD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] KBS World[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://37446d73e1e72b1c5a2c2295fb235db4903c2923&amp;mode=1&amp;name=Acestream+KBS World$$lsname=KBS World (PLEXUS source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/KBSWORLD.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 1[/B][/COLOR]</title>
+<link>http://ott-cdn.ucom.am/s29/index.m3u8$$lsname=RAI 1 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CGTN AMERICA[/B][/COLOR]</title>
+<link>http://live.cgtn.com/1000/prog_index.m3u8$$lsname=CGTN AMERICA (HTTP source #01)</link>
+<link>https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$$lsname=CGTN AMERICA (HTTP source #02)</link>
+<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8$$lsname=CGTN AMERICA (HTTP source #03)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTNAMERICA.png</thumbnail></item>
+Copyright © 2019 - TeamBlue
+Copyright © 2019 - TeamBlue
