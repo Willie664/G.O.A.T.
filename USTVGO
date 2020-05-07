@@ -1,316 +1,156 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS[/B][/COLOR]</title>
-<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8$$lsname=CBS (HTTP source #01)</link>
-<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8$$lsname=CBS (HTTP source #02)</link>
-<link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8$$lsname=CBS (HTTP source #03)</link>
-<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$$lsname=CBS (HTTP source #04)</link>
-<link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8$$lsname=CBS (HTTP source #05)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cbs-live-streaming-free/$$lsname=CBS (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS HD[/B][/COLOR]</title>
-<link>http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8$$lsname=CBS HD (HTTP source #01)</link>
-<link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on$$lsname=CBS HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NBC[/B][/COLOR]</title>
-<link>https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8$$lsname=NBC (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nbc-live-streaming-free/$$lsname=NBC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-hd-live-streaming/$$lsname=FOX HD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ABC[/B][/COLOR]</title>
-<link>http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8$$lsname=ABC (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/abc-live-streaming-free/$$lsname=ABC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CW[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/the-cw-live-streaming-free/$$lsname=CW (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CW.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] PBS[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/pbs-live/$$lsname=PBS (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MSNBC[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/msnbc-live-streaming-free/$$lsname=MSNBC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNBC[/B][/COLOR]</title>
-<link>http://92.43.140.249/s65/04.m3u8$$lsname=CNBC (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cnbc-live-streaming-free/$$lsname=CNBC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
-<link>https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8$$lsname=CNN (HTTP source #01)</link>
-<link>http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8$$lsname=CNN (HTTP source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cnn-live-streaming-free/$$lsname=CNN (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX News[/B][/COLOR]</title>
-<link>https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8$$lsname=FOX News (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-news-live-streaming-free/$$lsname=FOX News (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Channel[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/discovery-channel-live/$$lsname=Discovery Channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TLC[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tlc-live-free/$$lsname=TLC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX 30[/B][/COLOR]</title>
-<link>http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8$$lsname=FOX 30 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX30.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX 32[/B][/COLOR]</title>
-<link>http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8$$lsname=FOX 32 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX32.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Food Network[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/food-network-live-free/$$lsname=Food Network (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tnt-channel-live-free/$$lsname=TNT (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] USA NETWORK[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/usa-network-live/$$lsname=USA NETWORK (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/USANETWORK.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TBS[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/tbs-channel-live-free/$$lsname=TBS (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FX[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fx-channel-live/$$lsname=FX (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/amc-live/$$lsname=AMC (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bravo[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/bravo-channel-live-free/$$lsname=Bravo (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BRAVOTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Lifetime[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/lifetime-channel-live/$$lsname=Lifetime (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LIFETIME.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/ae-networks-live-streaming-free/$$lsname=A&E (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] History[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/history-channel-live/$$lsname=History (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Syfy[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/syfy-channel-live/$$lsname=Syfy (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Comedy Central[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/comedy-central-live-free/$$lsname=Comedy Central (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BET[/B][/COLOR]</title>
-<link>http://espn.tmedia.me/cache/bet.m3u8$$lsname=BET (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BET.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Animal Planet[/B][/COLOR]</title>
-<link>http://80.80.160.168/live/1/live.m3u8$$lsname=Animal Planet (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/animal-planet-live/$$lsname=Animal Planet (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Weather channel[/B][/COLOR]</title>
-<link>http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #01)</link>
-<link>http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #02)</link>
-<link>https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8$$lsname=The Weather channel (HTTP source #03)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/the-weather-channel-live-streaming-free/$$lsname=The Weather channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN 2[/B][/COLOR]</title>
-<link>https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8$$lsname=C-SPAN 2 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN[/B][/COLOR]</title>
-<link>https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8$$lsname=C-SPAN (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] WGN America[/B][/COLOR]</title>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8$$lsname=WGN America (HTTP source #01)</link>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_1000_av-p.m3u8$$lsname=WGN America (HTTP source #02)</link>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8$$lsname=WGN America (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Travel Channel[/B][/COLOR]</title>
-<link>http://80.80.160.168/live/3/live.m3u8$$lsname=Travel Channel (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/travel-channel-live-free/$$lsname=Travel Channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC America[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/bbc-america-live/$$lsname=BBC America (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Euronews[/B][/COLOR]</title>
-<link>http://164.40.161.46:8002/play/s4$$lsname=Euronews (HTTP source #01)</link>
-<link>http://88.216.48.14:80/euronews/live.m3u8$$lsname=Euronews (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC World News[/B][/COLOR]</title>
-<link>http://ott-cdn.ucom.am/s24/index.m3u8$$lsname=BBC World News (HTTP source #01)</link>
-<link>http://188.93.238.153:8000/play/a02d/index.m3u8$$lsname=BBC World News (HTTP source #02)</link>
-<link>https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8$$lsname=BBC World News (HTTP source #03)</link>
-<link>http://92.43.140.249/s24/04.m3u8$$lsname=BBC World News (HTTP source #05)</link>
-<link>plugin://program.plexus/?url=acestream://fa5b6508827ae9568e722762d213414c1eeed7d1&amp;mode=1&amp;name=Acestream+BBC World News$$lsname=BBC World News (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bloomberg[/B][/COLOR]</title>
-<link>https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg (HTTP source #01)</link>
-<link>http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg (HTTP source #02)</link>
-<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8$$lsname=Bloomberg (HTTP source #03)</link>
-<link>https://liveproduseast.global.ssl.fastly.net/btv/desktop/US live.m3u8$$lsname=Bloomberg (HTTP source #04)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bloomberg HD[/B][/COLOR]</title>
-<link>https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8$$lsname=Bloomberg HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Fox Business[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/fox-business-live-streaming-free/$$lsname=Fox Business (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXBUSINESS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] C-SPAN 3[/B][/COLOR]</title>
-<link>https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8$$lsname=C-SPAN 3 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN3.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nickelodeon[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nickelodeon-live-streaming-free/$$lsname=Nickelodeon (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/disney-channel-live-streaming-free/$$lsname=Disney Channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Cartoon Network[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cartoon-network-live-streaming-free/$$lsname=Cartoon Network (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NHK World[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://6ec03a9a0ab5b80072dc00cdbf6d73bea094a01d&amp;mode=1&amp;name=Acestream+NHK World$$lsname=NHK World (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NHKWORLD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Live HD[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://db3b155eef1bf706f4839c51ea45fef86f11ec6b&amp;mode=1&amp;name=Acestream+MTV Live HD$$lsname=MTV Live HD (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Pop[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e385c73f7df37c9cb47bdece30fe0c13f44c2e84&amp;mode=1&amp;name=Acestream+Pop$$lsname=Pop (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nat-geo-wild-live/$$lsname=Nat Geo Wild (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] National Geographic[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/national-geographic-live/$$lsname=National Geographic (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Investigation Discovery[/B][/COLOR]</title>
-<link>http://80.80.160.168/live/5/live.m3u8$$lsname=Investigation Discovery (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/investigation-discovery-live-streaming-free/$$lsname=Investigation Discovery (SD source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Classic[/B][/COLOR]</title>
-<link>http://94.46.222.90:2107$$lsname=MTV Classic (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Hallmark Channel[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hallmark-channel-live-streaming-free/$$lsname=Hallmark Channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HALLMART.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Hallmark Movies & Mysteries[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/$$lsname=Hallmark Movies & Mysteries (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HALLMARKMOVIES.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN USA[/B][/COLOR]</title>
-<link>http://espn.tmedia.me/cache/espn1_540.m3u8$$lsname=ESPN USA (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/espn-live-streaming-free/$$lsname=ESPN USA (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN USA HD[/B][/COLOR]</title>
-<link>http://80.80.160.168/live/6/2500000/live.m3u8$$lsname=ESPN USA HD (HTTP source #01)</link>
-<link>http://80.80.160.168/live/6/live.m3u8$$lsname=ESPN USA HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN 2 USA[/B][/COLOR]</title>
-<link>http://espn.tmedia.me/cache/espn2_540.m3u8$$lsname=ESPN 2 USA (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/espn2-live-streaming-free/$$lsname=ESPN 2 USA (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FS1[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://364864dce75ae8f7a40b6557dc7949b0bf422313&amp;mode=1&amp;name=Acestream+FS1$$lsname=FS1 (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS Sports Network[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/cbs-sports-live-free/$$lsname=CBS Sports Network (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSSPORTS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN NEWS[/B][/COLOR]</title>
-<link>http://espn.tmedia.me/cache/espnews.m3u8$$lsname=ESPN NEWS (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNNEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPNU[/B][/COLOR]</title>
-<link>http://espn.tmedia.me/cache/espnu.m3u8$$lsname=ESPNU (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNU.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NFL Network[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/nfl-network-live-free/$$lsname=NFL Network (SD source #01)</link>
-<thumbnail>http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] NBA[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://ce90df384e16fa59f2519fa9fddee31492042e70&amp;mode=1&amp;name=Acestream+NBA$$lsname=NBA (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MLB Network[/B][/COLOR]</title>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8$$lsname=MLB Network (HTTP source #01)</link>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8$$lsname=MLB Network (HTTP source #02)</link>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8 $$lsname=MLB Network (HTTP source #03)</link>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8$$lsname=MLB Network (HTTP source #04)</link>
-<link>plugin://program.plexus/?url=acestream://01b26b06f670e6c3020adf549fe2fb841dd3b12e&amp;mode=1&amp;name=Acestream+MLB Network$$lsname=MLB Network (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Golf Channel[/B][/COLOR]</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104$$lsname=The Golf Channel (HTTP source #01)</link>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104$$lsname=The Golf Channel (HTTP source #02)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/golf-channel-live-free/$$lsname=The Golf Channel (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Olympic Channel[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://49669ea3da662eed86224e71e5e48f106e151488&amp;mode=1&amp;name=Acestream+The Olympic Channel$$lsname=The Olympic Channel (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEOLYMPICCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] The Olympic Channel HD[/B][/COLOR]</title>
-<link>http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8$$lsname=The Olympic Channel HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/THEOLYMPICCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] beIN Sports en Espanol[/B][/COLOR]</title>
-<link>https://fubolive.com/live/beinsports/index.m3u8$$lsname=beIN Sports en Espanol (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSN</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/hbo-live-free/$$lsname=HBO (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO2[/B][/COLOR]</title>
-<link>http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8$$lsname=HBO2 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Showtime[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/showtime-live-free/$$lsname=Showtime (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SHOWTIME.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Starz[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustvgo.net/starz-channel-live/$$lsname=Starz (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/STARZ.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVE 24H[/B][/COLOR]</title>
-<link>https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8$$lsname=TVE 24H (HTTP source #01)</link>
-<link>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8$$lsname=TVE 24H (HTTP source #02)</link>
-<link>plugin://program.plexus/?url=acestream://92ddcec8e4c785f767792e12f4ebacb59ea13135&amp;mode=1&amp;name=Acestream+TVE 24H$$lsname=TVE 24H (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Antena 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacalleochotv.org/magu/espana3.php$$lsname=Antena 3 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] I 24 NEWS EN[/B][/COLOR]</title>
-<link>https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8$$lsname=I 24 NEWS EN (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] I 24 NEWS FR[/B][/COLOR]</title>
-<link>https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8$$lsname=I 24 NEWS FR (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/p1?ch=i24news_fr$$lsname=I 24 NEWS FR (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8$$lsname=TV5 MONDE (HTTP source #01)</link>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #02)</link>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8$$lsname=TV5 MONDE (HTTP source #03)</link>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?isnpLk=10&rebase=on$$lsname=TV5 MONDE (HTTP source #04)</link>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8$$lsname=TV5 MONDE (HTTP source #05)</link>
-<link>plugin://program.plexus/?url=acestream://4a558bac32c1b1b7668c5219c27b1709d2b5b53f&amp;mode=1&amp;name=Acestream+TV5 MONDE$$lsname=TV5 MONDE (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BFM TV[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://2d5c99fd53e2d592a5efbefe44c90e8cad292f1a&amp;mode=1&amp;name=Acestream+BFM TV$$lsname=BFM TV (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DW[/B][/COLOR]</title>
-<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8$$lsname=DW (HTTP source #01)</link>
-<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_3_av-p.m3u8$$lsname=DW (HTTP source #02)</link>
-<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8$$lsname=DW (HTTP source #03)</link>
-<link>http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8$$lsname=DW (HTTP source #04)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.live-stream.tv/online/fernseheneutscheutschewelle.html$$lsname=DW (SD source #01)</link>
-<link>plugin://program.plexus/?url=acestream://4a21aa091528e23bdf3472733442d0cebcfb4cbe&amp;mode=1&amp;name=Acestream+DW$$lsname=DW (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP Internacional[/B][/COLOR]</title>
-<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8$$lsname=RTP Internacional (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://www.rtp.pt/play/direto/rtpinternacional$$lsname=RTP Internacional (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hls.giize.com/rtp?ch=int$$lsname=RTP Internacional (SD source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RT AMERICA[/B][/COLOR]</title>
-<link>https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8$$lsname=RT AMERICA (HTTP source #01)</link>
-<link>http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live$$lsname=RT AMERICA (HTTP source #02)</link>
-<link>http://rt-usa.secure.footprint.net/1105-inadv-qidx-1k_v5.m3u8$$lsname=RT AMERICA (HTTP source #03)</link>
-<link>http://rt-usa.secure.footprint.net:80/1105-inadv-qidx-4k_v3.m3u8$$lsname=RT AMERICA (HTTP source #04)</link>
-<link>http://rt-usa.secure.footprint.net:80/1105-inadv-qidx-1k_v3.m3u8$$lsname=RT AMERICA (HTTP source #05)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Globo[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://ekostreams.co/ch/bobo.php$$lsname=Globo (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=https://ekostreams.co/ch/record.php$$lsname=RECORD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] KBS World[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://37446d73e1e72b1c5a2c2295fb235db4903c2923&amp;mode=1&amp;name=Acestream+KBS World$$lsname=KBS World (PLEXUS source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/KBSWORLD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 1[/B][/COLOR]</title>
-<link>http://ott-cdn.ucom.am/s29/index.m3u8$$lsname=RAI 1 (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CGTN AMERICA[/B][/COLOR]</title>
-<link>http://live.cgtn.com/1000/prog_index.m3u8$$lsname=CGTN AMERICA (HTTP source #01)</link>
-<link>https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$$lsname=CGTN AMERICA (HTTP source #02)</link>
-<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8$$lsname=CGTN AMERICA (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTNAMERICA.png</thumbnail></item>
-Copyright © 2019 - TeamBlue
-Copyright © 2019 - TeamBlue
+#EXTINF:0,TVR 1 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr1 
+#EXTINF:0,TVR 2 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr2 
+#EXTINF:0,TVR 3 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr3 
+#EXTINF:0,TVR CLUJ 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrcluj 
+#EXTINF:0,TVR CRAIOVA 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrcraiova 
+#EXTINF:0,TVR IASI 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvriasi 
+#EXTINF:0,TVR NEWS 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrinfo 
+#EXTINF:0,TVR MURES 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrmures 
+#EXTINF:0,TVR TIMISOARA 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrtimisoara 
+#EXTINF:0,TVR INTERNATIONAL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr 
+#EXTINF:0,MUSICCHANNEL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:musicchannel 
+#EXTINF:0,ANIMAL PLANET 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:animalplanet 
+#EXTINF:0,ANTENA 3 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:antena_3 
+#EXTINF:0,AXN 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axn 
+#EXTINF:0,AXN SCIFI 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axnscifi 
+#EXTINF:0,AXN SPIN 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axnspin 
+#EXTINF:0,AXN CRIME 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axncrime 
+#EXTINF:0,B1 TV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:b1 
+#EXTINF:0,BOOMERANG 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:bomerang 
+#EXTINF:0,CARTOON 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:cartoon 
+#EXTINF:0,COMEDY CENTRAL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:comedycentral 
+#EXTINF:0,DISCOVERY 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discovery 
+#EXTINF:0,DISCOVERY INVESTIGATION 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryinvestigations 
+#EXTINF:0,DISCOVERY SCIENCE 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryscience 
+#EXTINF:0,DISCOVERY WORLD 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryworld 
+#EXTINF:0,DISNEY 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:disney 
+#EXTINF:0,DISNEY JUNIOR 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:disneyjr 
+#EXTINF:0,DOCUBOX 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4ocuBox 
+#EXTINF:0,DOLCE SPORT 1 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport 
+#EXTINF:0,DOLCE SPORT 2 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport2 
+#EXTINF:0,DOLCE SPORT 3 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport3 
+#EXTINF:0,DOLCE SPORT 4 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport4 
+#EXTINF:0,DOLCE SPORT HD 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesporthd 
+#EXTINF:0,ETNO 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:etno 
+#EXTINF:0,FASHION 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:fashiontv 
+#EXTINF:0,FASHION BOX 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:FashionBox 
+#EXTINF:0,FAVORIT 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:favorit 
+#EXTINF:0,FIGHT BOX 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:FightBox 
+#EXTINF:0,FILMBOX 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmbox 
+#EXTINF:0,FILMBOX EXTRA 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxextra 
+#EXTINF:0,FILMBOX FAMILY 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxfamily 
+#EXTINF:0,FILMBOX HD 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxhd 
+#EXTINF:0,HITMUSIC 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:hitmusicch 
+#EXTINF:0,INEDIT TV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:inedittv 
+#EXTINF:0,KANAL D 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:kanald 
+#EXTINF:0,KISS 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:kiss 
+#EXTINF:0,MOOZ DANCE 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozdance 
+#EXTINF:0,MOOZ HD 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozhd 
+#EXTINF:0,MOOZ HITS 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozhits 
+#EXTINF:0,MOOZ RO 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozro 
+#EXTINF:0,MYNELE 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:mynele 
+#EXTINF:0,NASUL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nasultv 
+#EXTINF:0,NATIONAL 24 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:n24 
+#EXTINF:0,NATIONAL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nationaltv 
+#EXTINF:0,NICK JR 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nickjr 
+#EXTINF:0,NICKELODEON 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nickelodeon 
+#EXTINF:0,NEPTUN 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:neptuntv 
+#EXTINF:0,OTV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4tv 
+#EXTINF:0,PARTY 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:party 
+#EXTINF:0,REALITATEA 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:realitatea 
+#EXTINF:0,RTV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:rtv 
+#EXTINF:0,SHORTS TV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:shortstv 
+#EXTINF:0,SPERANTA 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:sperantatv 
+#EXTINF:0,TARAF 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:taraf 
+#EXTINF:0,TCM 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tcm 
+#EXTINF:0,MONEY CHANNEL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moneych 
+#EXTINF:0,TLC 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tlc 
+#EXTINF:0,TRANSILVANIA LIVE 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:transilvanialive 
+#EXTINF:0,TRAVEL CHANNEL 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelchannel 
+#EXTINF:0,TRAVEL MIX 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelmix 
+#EXTINF:0,CITY TV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:citytv 
+#EXTINF:0,H2o 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:h2o 
+#EXTINF:0,UTV 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:utv 
+#EXTINF:0,VIASAT EXPLORER 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:explorer 
+#EXTINF:0,VIASAT HISTORY 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:history 
+#EXTINF:0,VIASAT NATURE 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nature 
+#EXTINF:0,TV 1000 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tv1000 
+#EXTINF:0,VALEA PRAHOVEI 
+rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:valeaprahovei
