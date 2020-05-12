@@ -1,156 +1,105 @@
-#EXTINF:0,TVR 1 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr1 
-#EXTINF:0,TVR 2 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr2 
-#EXTINF:0,TVR 3 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr3 
-#EXTINF:0,TVR CLUJ 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrcluj 
-#EXTINF:0,TVR CRAIOVA 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrcraiova 
-#EXTINF:0,TVR IASI 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvriasi 
-#EXTINF:0,TVR NEWS 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrinfo 
-#EXTINF:0,TVR MURES 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrmures 
-#EXTINF:0,TVR TIMISOARA 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvrtimisoara 
-#EXTINF:0,TVR INTERNATIONAL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tvr 
-#EXTINF:0,MUSICCHANNEL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:musicchannel 
-#EXTINF:0,ANIMAL PLANET 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:animalplanet 
-#EXTINF:0,ANTENA 3 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:antena_3 
-#EXTINF:0,AXN 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axn 
-#EXTINF:0,AXN SCIFI 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axnscifi 
-#EXTINF:0,AXN SPIN 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axnspin 
-#EXTINF:0,AXN CRIME 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:axncrime 
-#EXTINF:0,B1 TV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:b1 
-#EXTINF:0,BOOMERANG 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:bomerang 
-#EXTINF:0,CARTOON 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:cartoon 
-#EXTINF:0,COMEDY CENTRAL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:comedycentral 
-#EXTINF:0,DISCOVERY 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discovery 
-#EXTINF:0,DISCOVERY INVESTIGATION 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryinvestigations 
-#EXTINF:0,DISCOVERY SCIENCE 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryscience 
-#EXTINF:0,DISCOVERY WORLD 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:discoveryworld 
-#EXTINF:0,DISNEY 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:disney 
-#EXTINF:0,DISNEY JUNIOR 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:disneyjr 
-#EXTINF:0,DOCUBOX 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4ocuBox 
-#EXTINF:0,DOLCE SPORT 1 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport 
-#EXTINF:0,DOLCE SPORT 2 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport2 
-#EXTINF:0,DOLCE SPORT 3 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport3 
-#EXTINF:0,DOLCE SPORT 4 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesport4 
-#EXTINF:0,DOLCE SPORT HD 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:dolcesporthd 
-#EXTINF:0,ETNO 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:etno 
-#EXTINF:0,FASHION 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:fashiontv 
-#EXTINF:0,FASHION BOX 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:FashionBox 
-#EXTINF:0,FAVORIT 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:favorit 
-#EXTINF:0,FIGHT BOX 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:FightBox 
-#EXTINF:0,FILMBOX 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmbox 
-#EXTINF:0,FILMBOX EXTRA 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxextra 
-#EXTINF:0,FILMBOX FAMILY 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxfamily 
-#EXTINF:0,FILMBOX HD 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:filmboxhd 
-#EXTINF:0,HITMUSIC 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:hitmusicch 
-#EXTINF:0,INEDIT TV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:inedittv 
-#EXTINF:0,KANAL D 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:kanald 
-#EXTINF:0,KISS 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:kiss 
-#EXTINF:0,MOOZ DANCE 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozdance 
-#EXTINF:0,MOOZ HD 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozhd 
-#EXTINF:0,MOOZ HITS 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozhits 
-#EXTINF:0,MOOZ RO 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moozro 
-#EXTINF:0,MYNELE 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:mynele 
-#EXTINF:0,NASUL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nasultv 
-#EXTINF:0,NATIONAL 24 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:n24 
-#EXTINF:0,NATIONAL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nationaltv 
-#EXTINF:0,NICK JR 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nickjr 
-#EXTINF:0,NICKELODEON 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nickelodeon 
-#EXTINF:0,NEPTUN 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:neptuntv 
-#EXTINF:0,OTV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4tv 
-#EXTINF:0,PARTY 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:party 
-#EXTINF:0,REALITATEA 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:realitatea 
-#EXTINF:0,RTV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:rtv 
-#EXTINF:0,SHORTS TV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:shortstv 
-#EXTINF:0,SPERANTA 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:sperantatv 
-#EXTINF:0,TARAF 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:taraf 
-#EXTINF:0,TCM 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tcm 
-#EXTINF:0,MONEY CHANNEL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:moneych 
-#EXTINF:0,TLC 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tlc 
-#EXTINF:0,TRANSILVANIA LIVE 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:transilvanialive 
-#EXTINF:0,TRAVEL CHANNEL 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelchannel 
-#EXTINF:0,TRAVEL MIX 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:travelmix 
-#EXTINF:0,CITY TV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:citytv 
-#EXTINF:0,H2o 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:h2o 
-#EXTINF:0,UTV 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:utv 
-#EXTINF:0,VIASAT EXPLORER 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:explorer 
-#EXTINF:0,VIASAT HISTORY 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:history 
-#EXTINF:0,VIASAT NATURE 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:nature 
-#EXTINF:0,TV 1000 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:tv1000 
-#EXTINF:0,VALEA PRAHOVEI 
-rtmp://portaltv.best.fsv.me:554:1937/live3/mp4:valeaprahovei
+<!doctype html>
+<html lang="de">
+<head>
+  <title>Mobdro — All the web’s free video streams on your Android device</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0, user-scalable = no" />
+  <meta name="description" content="Mobdro finds free video streams online and brings them to your Android smartphone or tablet to enjoy." />
+  <meta name="keywords" content="video, streaming, android, chromecast" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" media="all" href="assets/stylesheets/style.css" />
+  </head>
+<body>
+
+  <!-- start navigation -->
+  <ul class="navigation">
+    <li><a href="index" class="n01">Mobdro</a></li>
+    <li><a href="installation" class="n02">Installation</a></li>
+    <li><a href="faq" class="n03">FAQ</a></li>
+    <li><a href="eula" class="n04">EULA</a></li>
+  </ul> <!-- end navigation -->
+
+<!-- start content-wide -->
+<div class="content-wide bg08 space-top">
+  <h1 class="space-top">Free Video Streams for Android</h1>
+  <!-- start content-narrow -->
+  <div class="content-narrow">
+    <a href="mobdro.apk" class="button-primary">Download the app</a>
+    <p class="details">
+      17.7 MB, Version 2.1.76, for Android 4.4+<br>
+      <a href="installation">How to install?</a>
+    </p>
+    <img src="assets/images/ui.png" alt="Mobdro’s interface works on smartphones and tablets alike" />
+  </div> <!-- end content-narrow -->
+</div> <!-- end content-wide -->
+
+<!-- start content-wide -->
+<div class="content-wide space-top space-bottom">
+  <!-- start content-narrow -->
+  <div class="content-narrow">
+    <p>
+      Find free video streams online and enjoy them on your Android phone or tablet: Mobdro constantly searches the web for the best free video streams and brings them to your device.
+    </p>
+  </div> <!-- end content-narrow -->
+  <div class="row">
+    <div class="col1-4large">
+      <h2>Discover</h2>
+      <p>Easily find video streams from around the world, on every topic and in every language.</p>
+    </div>
+    <div class="col1-4large">
+      <h2>Share</h2>
+      <p>Recommend videos and let your friends know what you’re watching with just one click.</p>
+    </div>
+    <div class="col1-4large">
+      <h2>Bookmark</h2>
+      <p>Organize your streams and filter them by language or topic with your player history always at hand.</p>
+    </div>
+    <div class="col1-4large">
+      <h2>Capture</h2>
+      <p>Download your favorite streams and watch them offline, wherever and whenever you want.</p>
+    </div>
+  </div> <!-- End of row -->
+  <!-- start content-narrow -->
+  <div class="content-narrow">
+    <!--<p class="details">
+      <span>*</span> This feature will be available in the premium version. <a href="premium">Learn more</a>
+    </p>-->
+  </div> <!-- end content-narrow -->
+</div> <!-- end content-wide -->
+
+<!-- start content-wide -->
+<div class="content-wide bggrey space-top space-bottom">
+  <!-- start content-narrow -->
+  <div class="content-narrow">
+    <h2>Connect</h2>
+    <p>
+      If you have any questions about Mobdro, the comprehensive <a href="faq">FAQs</a> are your friend.
+    </p>
+  </div> <!-- end content-narrow -->
+</div> <!-- end content-wide -->
+
+  <!-- start content-wide -->
+  <div class="content-wide space-top bgblack space-bottom">
+    <a href="#" class="button-secondary btn-scroll-top">Scroll up</a>
+    <!-- start content-narrow -->
+    <div class="content-narrow">
+      <ul class="list-footer">
+        <li><a href="index">Home</a></li>
+<!--        <li><a href="premium">Premium</a></li> -->
+        <li><a href="installation">Installation</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+      <ul class="list-footer">
+        <li><a href="eula">EULA</a></li>
+        <li><a href="changelog">Changelog</a></li>
+        <li><a href="oss">Open Source</a></li>
+<!--        <li><a href="faq#contact">Contact us</a></li> -->
+      </ul>
+<!--      <p class="details">&copy; 2017 by Mobdro, all rights reserved</p> -->
+    </div> <!-- end content-narrow -->
+  </div> <!-- end content-wide -->
+
+  <script type="text/javascript" src="assets/javascripts/application.min.js"></script>
+</body>
+</html>
