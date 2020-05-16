@@ -108,7 +108,8 @@ plugin://plugin.video.tvone11/play/4/294/play.pvr
 plugin://plugin.video.temptv/?action=ustvgoPlay&amp;url=http://ustvgo.tv/player.php?stream=AMC
 #EXTINF:-1 tvg-id="I254.10021.schedulesdirect.org" tvg-name="AMC East HD" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10021_h3_aa.png" group-title="Cable", AMC HD
 plugin://plugin.video.tvone111/play/MTI0OQ==w/play.pvr
-#EXTINF:-1 tvg-id="I254.10021.schedulesdirect.org" tvg-name="AMC East HD" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10021_h3_aa.png" group-title="Cable", AMC 1080 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="I254.10021.schedulesdirect.org" tvg-name="AMC East HD" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10021_h3_aa.png" group-title="Cable", AMC 1080 
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.google.com/logos/2011/lucilleball11-hp-tv.png" group-title="Cable", American Classic
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 #EXTINF:-1 tvg-id="I718.31477.schedulesdirect.org" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Cable", American Heroes
