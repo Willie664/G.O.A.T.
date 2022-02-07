@@ -1,6 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1,BET
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=e409b133-7c16-45f5-9410-9921a78efa2a&deviceLat=39.9552&deviceLon=-76.6653&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.163&includeExtendedEvents=false&sid=1ffbede4-4409-4d93-942c-d8f82c795a53&userId=&serverSideAds=true&output=m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=e409b133-7c16-45f5-9410-9921a78efa2a&deviceLat=39.9552&deviceLon=-76.6653&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.163&includeExtendedEvents=false&sid=1ffbede4-4409-4d93-942c-d8f82c795a53&userId=&serverSideAds=false
 #EXTINF:-1,BET Her
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=e409b133-7c16-45f5-9410-9921a78efa2a&deviceLat=39.9552&deviceLon=-76.6653&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.163&includeExtendedEvents=false&sid=abf85823-952e-4048-a031-b6efe2426ea9&userId=&serverSideAds=true
 #EXTINF:-1,SPIKE
