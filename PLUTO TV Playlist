@@ -7,7 +7,10 @@ https://pluto.tv/en/live-tv/laughoutloud.m3u8
 https://pluto.tv/en/live-tv/laughoutloud
 
 #EXTINF:-1, Black Throwbacks
-https://pluto.tv/en/live-tv/black-throwbacks
+https://pluto.tv/en/live-tv/black-throwbacks.m3u8
+
+#EXTINF:-1, Black Throwbacks
+https://pluto.tv/en/live-tv/black-throwbacks?shortlink=rebhompg&pid=rebhompg.m3u8
 
 #EXTINF:0, A&E 
 https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37b22717ae989bcffb.m3u8
