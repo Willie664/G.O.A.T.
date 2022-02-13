@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:0, LOL
+https://pluto.tv/en/live-tv/laughoutloud.m3u8
+
+#EXTINF:-1, LOL
+https://pluto.tv/en/live-tv/laughoutloud
+
+#EXTINF:-1, Black Throwbacks
+https://pluto.tv/en/live-tv/black-throwbacks
+
 #EXTINF:0, A&E 
 https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
