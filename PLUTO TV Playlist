@@ -1,5 +1,113 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="dtv_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/logo_20210429_195105_68.png" group-title="Entertainment",Classic Reruns TV
+https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGComedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/comedy-dynamics/logo_20191213_195237.png" group-title="Entertainment",Comedy Dynamics
+https://dai.google.com/linear/hls/event/hAOgbga4SISbmj39pzKQwA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGCONtv" tvg-name="ConTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="Entertainment",ConTV
+https://dai.google.com/linear/hls/event/ldvEXVEQQO-qemwOCkh6YQ/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGFuse" tvg-name="Fuse Backstage" tvg-logo="https://a.jsrdn.com/hls/22959/fuse-1/logo_20210426_150938_70.png" group-title="Entertainment",Fuse Backstage
+https://dai.google.com/linear/hls/event/XvQlwBGiQ_OxLxVvoy7GtA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGHumor Mill" tvg-name="Humor Mill" tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="Entertainment",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGLaw & Crime" tvg-name="Law & Crime" tvg-logo="https://a.jsrdn.com/hls/22884/law/logo_20200911_201409_70.png" group-title="Entertainment",Law & Crime
+https://dai.google.com/linear/hls/event/oE64ATdbSpSCeeMsjLiKXA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGPopstar! TV" tvg-name="Popstar!TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="Entertainment",Popstar!TV
+https://dai.google.com/linear/hls/event/vZXp3NWzRMO8gfuH_xl5BQ/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/logo_20210323_165634_68.png" group-title="Entertainment",US Weekly TV
+https://dai.google.com/linear/hls/event/W8xANO0tSXyIydJzAkwVxg/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-name="Young Hollywood" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png" group-title="Entertainment",Young Hollywood
+https://dai.google.com/linear/hls/event/PXzvwCecR2eybIVtd-593w/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGDove Channel" tvg-name="Dove Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="Movies",Dove Channel
+https://dai.google.com/linear/hls/event/HYPAVeUNSiitRA7grlMeDw/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYFrightFlix" tvg-name="Frightflix" tvg-logo="https://a.jsrdn.com/hls/22915/frightflix/logo_20201029_013121_68.png" group-title="Movies",Frightflix
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGLone Star" tvg-name="LoneStar" tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/logo_20200602_195337.png" group-title="Movies",LoneStar
+https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGMovie Kingdom" tvg-name="Movie Kingdom" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="Movies",Movie Kingdom
+https://dai.google.com/linear/hls/event/UV7iuUDxT9qD9iNioJD4kw/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGNosey" tvg-name="Nosey" tvg-logo="https://a.jsrdn.com/hls/22970/nosey-1/logo_20210607_224737_68.png" group-title="Reality TV",Nosey
+https://dai.google.com/linear/hls/event/EtSqIE0FTbGZ4q_TcAMR1g/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGMilitaryTimes" tvg-name="Military Times" tvg-logo="https://a.jsrdn.com/hls/22930/sightline/logo_20211019_173405_68.png" group-title="Documentaries",Military Times
+https://dai.google.com/linear/hls/event/sXOhtN_7RaCrA4-U9g1kPg/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGTrue History" tvg-name="True History" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg" group-title="Documentaries",True History
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGDot Esports" tvg-name="Dot Esports" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20200917_065552_65.png" group-title="Fun & Games",Dot Esports
+https://dai.google.com/linear/hls/event/rAyedvwTSYmwf6Mhi1aoLg/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGBeautiful Planet" tvg-name="Beautiful Planet" tvg-logo="https://a.jsrdn.com/hls/23007/beautiful-planet/logo_20211215_193401_68.png" group-title="Travel & Lifestyle",Beautiful Planet
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/LC1BU9QFPYKMOGW05QR2/hls3/now_-1m_15s/m.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGChannel Fight" tvg-name="Channel Fight" tvg-logo="https://a.jsrdn.com/hls/22882/channel-fight/logo_20200930_055751_68.png" group-title="Sports",Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
+
+#EXTINF:-1 tvg-id="dtv_EPGFighting Spirit TV" tvg-name="Fighting Spirit" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22696/fighting-spirit-tv/logo_20200309_233956.png" group-title="Sports",Fighting Spirit
+https://dai.google.com/linear/hls/event/1an25xSeQuGB_J2IdoZ8Dg/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGMMA Junkie" tvg-name="MMA Junkie" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png" group-title="Sports",MMA Junkie
+https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGMotoAmerica TV" tvg-name="MotoAmerica" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20210929_171411_68.png" group-title="Sports",MotoAmerica
+https://dai.google.com/linear/hls/event/HCkYA2wESb6G9YpN6SyD0A/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGONETV US" tvg-name="OneTV US" tvg-logo="https://a.jsrdn.com/hls/22923/one-get-fit/logo_20210317_173613_70.png" group-title="Sports",OneTV US
+https://dai.google.com/linear/hls/event/XXmmQserRSGG8phTjJW3pQ/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGPro Football Focus" tvg-name="Pro Football Focus" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/logo_20210423_164432_70.png" group-title="Sports",Pro Football Focus
+https://dai.google.com/linear/hls/event/UlQSLwjRTlmNYjmvSXFlNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYBloomberg" tvg-name="Bloomberg Television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20210326_185155_70.png" group-title="News & Opinion",Bloomberg Television
+https://dai.google.com/linear/hls/event/0vEr1wBGRZGid7zJIjlVBQ/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGNewsmax TV" tvg-name="Newsmax" tvg-logo="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20210609_203037_38.png" group-title="News & Opinion",Newsmax
+https://dai.google.com/linear/hls/event/Yl7vtVj3Qoy0G74M13ffoA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYoanplus" tvg-name="OAN Plus" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/logo_20210112_225329_70.png" group-title="News & Opinion",OAN Plus
+https://dai.google.com/linear/hls/event/k2Xnhxd-RKWhEPwnsyWhdw/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYabc6news" tvg-name="ABC 6 News Rochester-Austin MN" tvg-logo="https://a.jsrdn.com/hls/22972/abc-6-news-rochester-austin-mn/logo_20210727_191445_68.png" group-title="Local News",ABC 6 News Rochester-Austin MN
+https://dai.google.com/linear/hls/event/K0CroFOZQXquDasQ7JTQlg/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYKOB4Albuquerque" tvg-name="KOB 4 Albuquerque New Mexico" tvg-logo="https://a.jsrdn.com/hls/22972/kob-4-albuquerque-new-mexico/logo_20210625_210331_70.png" group-title="Local News",KOB 4 Albuquerque New Mexico
+https://dai.google.com/linear/hls/event/iLCt8oaAROmxEXufGhRchw/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMY5eyewitnessnewskstpminneapolis" tvg-name="5 Eyewitness News KSTP Minneapolis-StPaul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="Local News",5 Eyewitness News KSTP Minneapolis-St.Paul
+https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYWDIONewsDuluth" tvg-name="WDIO News Duluth-Superior" tvg-logo="https://a.jsrdn.com/hls/22972/wdio-news-duluth-superior/logo_20210625_210817_68.png" group-title="Local News",WDIO News Duluth-Superior
+https://dai.google.com/linear/hls/event/nVudk3kWQL2KN9zrsjekyA/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYNews10NBCRochester" tvg-name="News10NBC WHEC Rochester NY" tvg-logo="https://a.jsrdn.com/hls/22972/news10nbc-whec-rochester-ny/logo_20210625_211042_68.png" group-title="Local News",News10NBC WHEC Rochester NY
+https://dai.google.com/linear/hls/event/DRMYHLrBQJm5gchjz8PK8A/master.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYNewsChannel13Albany" tvg-name="NewsChannel 13 WNYT Albany NY" tvg-logo="https://a.jsrdn.com/hls/22972/newschannel-13-wnyt-albany-ny/logo_20210625_211352_68.png" group-title="Local News",NewsChannel 13 WNYT Albany NY
+https://dai.google.com/linear/hls/event/YeZ0zrrmRraYWskBKnbkoA/master.m3u8
+
+#EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , CBS Sports
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+#EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , Comedy Dynamics
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+
 #EXTINF:0, LOL
 https://pluto.tv/en/live-tv/laughoutloud.m3u8
 
@@ -12,7 +120,7 @@ https://pluto.tv/en/live-tv/black-throwbacks.m3u8
 #EXTINF:-1, Black Throwbacks
 https://pluto.tv/en/live-tv/black-throwbacks?shortlink=rebhompg&pid=rebhompg.m3u8
 
-#EXTINF:0, A&E 
+#EXTINF:0, A&E
 https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
 #EXTINF:0, A&E
@@ -21,40 +129,40 @@ https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37
 #EXTINF:0, ABC (News)
 https://videoserver1.org/live/1r2HCy6vbKZzEzwYK0hXkw/1519333710/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
 
-#EXTINF:0, AMC 
+#EXTINF:0, AMC
 https://videoserver2.org/live/buptxylcAVN3d1POAxShHA/1519334845/c0371e35a2b3244f5edda7947172d954.m3u8 
 
-#EXTINF:0, AMC 
+#EXTINF:0, AMC
 https://videoserver2.org/live/buptxylcAVN3d1POAxShHA/1519334845/c0371e35a2b3244f5edda7947172d954.m3u8
 
-#EXTINF:0, Action Movies 
+#EXTINF:0, Action Movies
 https://videoserver2.org/live/5A2O66-J6Rge_0tZsuy_Qg/1519332581/90ce2364e02379b96643fe4d0f2d7c25.m3u8 
 
-#EXTINF:0, Adult Swim 
+#EXTINF:0, Adult Swim
 https://videoserver2.org/live/rposWNt5B2CzcaS67q_GAw/1519334855/539125fdf85ba9fc38e2550c3c838e4d.m3u8
 
 #EXTINF:0, Adventure Time
 https://videoserver1.org/live/5ucXdK4kQ8Pa-iTsTV08Vg/1519332763/7d0db380a5b95a8ba1da0bca241abda1.m3u8 
 
-#EXTINF:0, Always Sunny In Philadelphia 
+#EXTINF:0, Always Sunny In Philadelphia
 https://videoserver2.org/live/892GtgE5mgFI2patBKCoiA/1519334245/f970e2767d0cfe75876ea857f92e319b.m3u8 
 
-#EXTINF:0, American Dad 
+#EXTINF:0, American Dad
 https://videoserver1.org/live/LLh1FYCcZCFFh9_iAUbHDg/1519333113/523af537946b79c4f8369ed39ba78605.m3u8 
 
 #EXTINF:0, American Horror Story
 https://videoserver1.org/live/6az4h1kgCOQCG_k5U3ANxg/1519334689/9473408d814743efc7c203eb79782f8b.m3u8 
 
-#EXTINF:0, Animal Planet 
+#EXTINF:0, Animal Planet
 https://videoserver2.org/live/PV4Gl1VYVL0xzcyIzTrhaw/1519333314/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
 
-#EXTINF:0, Animal Planet 
+#EXTINF:0, Animal Planet
 https://videoserver2.org/live/PV4Gl1VYVL0xzcyIzTrhaw/1519333314/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 
 
 #EXTINF:0, Animated Movies
 https://videoserver1.org/live/R-EN_YiwycJiWjq-RzeciA/1519334861/7e18e745bf13ed4e73c5e612599b4cf5.m3u8
 
-#EXTINF:0, Anime Channel 
+#EXTINF:0, Anime Channel
 https://videoserver2.org/live/wSWcI17KIL6ku1z9iRZKDw/1519333327/d4fda09f200a7fcb0c05ad251b18d380.m3u8
 
 #EXTINF:0, Archer
@@ -69,166 +177,173 @@ https://videoserver2.org/live/Ak3eYxhRjjhSR15oBCyW3Q/1519334501/2c26054f8ae1cee3
 #EXTINF:0, Batman the Animated Series
 https://videoserver2.org/live/3DOfi7J5Ik2vI2EK8pdWfQ/1519333336/1af6ac5d4bbdfc67cdb8240079659ee6.m3u8 
 
-#EXTINF:0, Battlestar Galactica 
+#EXTINF:0, Battlestar Galactica
 https://videoserver1.org/live/34oUXMcONwD_RG9_Uw1mxA/1519332775/7585390460dc9ef5a38e1d8056c013b1.m3u8 
 
 #EXTINF:0, Beavis and Butthead
 https://videoserver1.org/live/anSBIezdUuzvMwEFZBgUZw/1519334705/d61aab1489b27a5cffd192451d68f8b2.m3u8 
 
-#EXTINF:0, Better Call Saul 
+#EXTINF:0, Better Call Saul
 https://videoserver1.org/live/OLintgMv5wrSHmwtCqGReA/1519333001/5360af35bde9ebd8f01f492dc059593c.m3u8
 
-#EXTINF:0, Blacklist 
+#EXTINF:0, Blacklist
 https://videoserver1.org/live/oC0LaN3XhbAgp6JYUDWnlA/1519333605/a0bc9791616492b14e330a7e0ef35512.m3u8
 
-#EXTINF:0, Blue Bloods 
+#EXTINF:0, Blue Bloods
 https://videoserver2.org/live/Pilk1FYn2_20DdlcWWbClg/1519334258/9ccb6d939dd20822476e4467a81bede6.m3u8
 
-#EXTINF:0, Bobs Burgers 
+#EXTINF:0, Bobs Burgers
 https://videoserver2.org/live/eVeIaF43HDtO7dnaw_rbTA/1519334255/21ad0bd836b90d08f4cf640b4c298e7c.m3u8 
 
-#EXTINF:0, Bones 
-logo=http://i.imgur.com/AN3IJC0.jpg stream=https://videoserver2.org/live/vWXYqEXoxZiZ9KLFc8osrA/1519333009/775f172869d40d605be241a5070b0afa.m3u8
+#EXTINF:0, Bones
+https://videoserver2.org/live/vWXYqEXoxZiZ9KLFc8osrA/1519333009/775f172869d40d605be241a5070b0afa.m3u8
 
-#EXTINF:0, BravoTv 
+#EXTINF:0, BravoTv
 https://videoserver2.org/live/TN0fJJmQa27dZ4RYuWTMfg/1519334214/582b19f3ef5459a2f139ec69ee2053d0.m3u8
 
-#EXTINF:0, Breaking Bad 
+#EXTINF:0, Breaking Bad
 https://videoserver1.org/live/W-EYrY8ONpH3NaAHc8_7rA/1519333608/8df117ec818106efa6490b2a8ad02ee4.m3u8 
 
-#EXTINF:0, CBS 
+#EXTINF:0, CBS
 https://videoserver1.org/live/Tz4WfyjQrHt_ta3nXClhBg/1519333559/4d0fadca2686a2cdd4a4a6623212449c.m3u8 
 
-#EXTINF:0, CNBC 
+#EXTINF:0, CNBC
 https://videoserver1.org/live/B3iX-GgZaZkDRHEaXcsAiw/1519334206/0fa1864db527d3de89020cb06a050b35.m3u8 
 
-#EXTINF:0, CSI: Miami https://www.arconaitv.us/stream.php%3Fid%3D145&amp;ts=1518609340&amp;sig=AOyes_QFQUra7gbuhLajZ8UiJj3rwm3u8 
-#EXTINF:0, Cartoon Network https://videoserver1.org/live/OR694YUDo5iK0AOndAGeEw/1519334063/654bc354612eeefee71cd611b175730c.m3u8 
-#EXTINF:0, Celebrity Deathmatch 
+#EXTINF:0, CSI: Miami
+https://www.arconaitv.us/stream.php%3Fid%3D145&amp;ts=1518609340&amp;sig=AOyes_QFQUra7gbuhLajZ8UiJj3rwm3u8
+
+#EXTINF:0, Cartoon Network
+https://videoserver1.org/live/OR694YUDo5iK0AOndAGeEw/1519334063/654bc354612eeefee71cd611b175730c.m3u8 
+
+#EXTINF:0, Celebrity Deathmatch
 https://videoserver1.org/live/5jDCIrqCJfmnmtbzS83peg/1519334263/161747ec4dc9f55f1760195593742232.m3u8 
 
-#EXTINF:0, Charmed 
+#EXTINF:0, Charmed
 https://videoserver2.org/live/B7mKkNfL_J25AwDq7hVF5w/1519333444/ba9f9c72cb0514a4c9724d7de2289c3f.m3u8 
 
-#EXTINF:0, Christmas movies 
+#EXTINF:0, Christmas movies
 https://videoserver1.org/live/xbG49aM2khRwOQSVwy7afA/1519332795/17d6b59f16d493db84234ade495c6ce6.m3u8 
 
-#EXTINF:0, Classic Toons 
+#EXTINF:0, Classic Toons
 https://videoserver1.org/live/EXjr0ius6jC-Oz3tuBN1DA/1519333015/d91af6958918af87d6a057c1cdf5b225.m3u8 
 
-#EXTINF:0, Comedy Central 
+#EXTINF:0, Comedy Central
 https://videoserver1.org/live/-cJ0LPdiZQ3G6EMKJkccIw/1519333727/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 
 
-#EXTINF:0, Comedy Central 
+#EXTINF:0, Comedy Central
 https://videoserver1.org/live/-cJ0LPdiZQ3G6EMKJkccIw/1519333727/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8 
 
-#EXTINF:0, Comedy Movies https://videoserver2.org/live/lreBovc8ofhlIsEcsVMbfw/1519333353/6fd04bc5b53697040f6f43a3c96d7658.m3u8 
+#EXTINF:0, Comedy Movies
+https://videoserver2.org/live/lreBovc8ofhlIsEcsVMbfw/1519333353/6fd04bc5b53697040f6f43a3c96d7658.m3u8 
 
-#EXTINF:0, Community 
+#EXTINF:0, Community
 https://videoserver2.org/live/qCQXNn__UZUdc42hA1o1bA/1519333616/820eb5b696ea2a657c0db1e258dc7d81.m3u8 
 
-#EXTINF:0, Cops 
+#EXTINF:0, Cops
 https://videoserver1.org/live/z2zXErS8-duZHm-tAlbutA/1519334268/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 
 
-#EXTINF:0, Curb your Enthusiasm 
+#EXTINF:0, Curb your Enthusiasm
 https://videoserver2.org/live/40JxhkzP5cdG-84LTeIOEg/1519333146/9b5394fd929896fb9e90e26b3d18e63d.m3u8 
 
-#EXTINF:0, Dexter https://videoserver1.org/live/pF8GnsUFv4VvKO5NX9mfbw/1519334105/a125a6b2a71e23adc002ac7fbe1a1042.m3u8 
+#EXTINF:0, Dexter
+https://videoserver1.org/live/pF8GnsUFv4VvKO5NX9mfbw/1519334105/a125a6b2a71e23adc002ac7fbe1a1042.m3u8 
 
-#EXTINF:0, Discovery Channel 
+#EXTINF:0, Discovery Channel
 https://videoserver2.org/live/qyFXC6U5oAr7nFgpmJDrkA/1519334209/075d66993151c178df1ed9840202d983.m3u8 
 
-#EXTINF:0, Discovery Channel 
+#EXTINF:0, Discovery Channel
 https://videoserver2.org/live/qyFXC6U5oAr7nFgpmJDrkA/1519334209/075d66993151c178df1ed9840202d983.m3u8 
 
-#EXTINF:0, Doctor Who 
+#EXTINF:0, Doctor Who
 https://videoserver2.org/live/NJKMIO_XQ9c86m6lOjDE0A/1519334272/c0e67c407905103dbce3984c756f3f21.m3u8 
 
-#EXTINF:0, Documentary movies 
+#EXTINF:0, Documentary movies
 https://videoserver2.org/live/-qZkRs4qvoC4eku0JX-ULw/1519333456/993ce9ee723cef89c679b7a55e42472a.m3u8 
 
-#EXTINF:0, Downton Abbey 
+#EXTINF:0, Downton Abbey
 https://videoserver2.org/live/2TIFUi9vsc5JZI0AtOR_7Q/1519333154/9c474e19272a393afd49ad65dfdd124d.m3u8 
 
-#EXTINF:0, Dragonball Z 
+#EXTINF:0, Dragonball Z
 https://videoserver2.org/live/9cF91-IWY34cuBjOQMthhQ/1519322418/0de7b6a61a70688b26e6eeb3113531a3.m3u8 
 
-#EXTINF:0, ESPN 
+#EXTINF:0, ESPN
 https://videoserver1.org/live/LQSAid8up-LY6rNEBB_GoQ/1519333575/aca0a31d14c85e19f7023c9a3889f37b.m3u8 
 
-#EXTINF:0, ESPN 
+#EXTINF:0, ESPN
 https://videoserver1.org/live/LQSAid8up-LY6rNEBB_GoQ/1519333575/aca0a31d14c85e19f7023c9a3889f37b.m3u8 
 
-#EXTINF:0, FOX 
+#EXTINF:0, FOX
 https://videoserver2.org/live/Iy4wU6-ihhyIPUZMjtYgsw/1519333560/c2f52b70c2324ba134b2cba2962bedae.m3u8 
 
-#EXTINF:0, FX 
+#EXTINF:0, FX
 https://videoserver2.org/live/kw3BK1f2MWSW4TVPFRI8Nw/1519333720/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 
 
-#EXTINF:0, Family Guy 
+#EXTINF:0, Family Guy
 https://videoserver2.org/live/CA656nhG6EN4qzfyobcf0g/1519332812/3d4044d65abdda407a92991f1300ec97.m3u8 
 
-#EXTINF:0, Fawlty Towers 
+#EXTINF:0, Fawlty Towers
 https://videoserver1.org/live/bsoRYKU1MQ9NHP06k0m-Cg/1519334112/28f20a02bf8a021fab4fcec48afb584e.m3u8 
 
-#EXTINF:0, Fox News 
+#EXTINF:0, Fox News
 https://videoserver2.org/live/6i1wD9G_f1PPqP6rcwThpQ/1519332932/877e1fd192b3a58577e4387971c215a7.m3u8 
 
-#EXTINF:0, Frasier 
+#EXTINF:0, Frasier
 https://videoserver1.org/live/FxPkKUG7tleLp-ya0BJO4g/1519334113/c485bb561918025e75545506984d363c.m3u8 
 
-#EXTINF:0, Friends 
+#EXTINF:0, Friends
 https://videoserver1.org/live/bsoRYKU1MQ9NHP06k0m-Cg/1519334112/28f20a02bf8a021fab4fcec48afb584e.m3u8 
 
-#EXTINF:0, Futurama 
+#EXTINF:0, Futurama
 https://videoserver1.org/live/IBznf9HbXGTR3_iX1KpZDw/1519333378/89e6d2b383471fc370d828e552c19e65.m3u8 
 
-#EXTINF:0, Fx 
+#EXTINF:0, Fx
 https://videoserver2.org/live/kw3BK1f2MWSW4TVPFRI8Nw/1519333720/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 
 
-#EXTINF:0, Game of Thrones 
+#EXTINF:0, Game of Thrones
 https://videoserver2.org/live/7KifeVUuvkK4e9LHw26XtQ/1519334892/4a1a27296188c273f6733ead4fe4eff6.m3u8 
 
-#EXTINF:0, Golden Girls 
+#EXTINF:0, Golden Girls
 https://videoserver2.org/live/2ESMDoU7ujjV2w8Etz1W2w/1519334731/591dbd3b809a29a2eac0e7fd36317d85.m3u8 
-#EXTINF:0, Harry Potter and Lord of the Rings 
+
+#EXTINF:0, Harry Potter and Lord of the Rings
 https://videoserver1.org/live/GIEuURVV0YbOytSWWIIYQg/1519333379/cba19b64326f3f317a6af74844d32d17.m3u8 
 
-#EXTINF:0, Home Improvement 
+#EXTINF:0, Home Improvement
 https://videoserver1.org/live/8IzaSTvO7izL4ayN44f3IA/1519334286/b5ee54bba2ae28a03173618f93df9835.m3u8 
 
-#EXTINF:0, Horror Movies 
+#EXTINF:0, Horror Movies
 https://videoserver1.org/live/JD7ywZSw6KOFz0xR4x8dBQ/1519334540/377feb82d0b63676a18f18f152f6c721.m3u8 
 
-#EXTINF:0, House MD 
+#EXTINF:0, House MD
 https://videoserver2.org/live/1QeavApIsdlLFy5ev0FbQQ/1519334125/2ca63cddd54f9490efad22421891a9d1.m3u8 
 
-#EXTINF:0, How I Met Your Mother (
+#EXTINF:0, How I Met Your Mother
 https://videoserver2.org/live/iscfBMT2aD6L4SMcn7Vygg/1519334737/5031da4369c54eb69986a0521decd1dc.m3u8 
 
-#EXTINF:0, I love Lucy 
+#EXTINF:0, I love Lucy
 https://videoserver2.org/live/2dZeCCiY6Gv2euJIeJPyfA/1519334544/67eea2632a01c967653555f98cb84b36.m3u8 
 
-#EXTINF:0, Invader Zim 
+#EXTINF:0, Invader Zim
 https://videoserver2.org/live/Gsvwm4V_Kla74GE6C6cCgw/1519334545/018d4d19ee6a779b041a625a60df0e2c.m3u8 
 
-#EXTINF:0, King of the Hill 
+#EXTINF:0, King of the Hill
 https://videoserver2.org/live/RzTaQtPvAQM_bWUhlx_gUg/1519334546/fa46ec0b4924e8c2194a53ef61b94039.m3u8 
 
-#EXTINF:0, Kings of Queens 
+#EXTINF:0, Kings of Queens
 https://videoserver2.org/live/ZRrG8zIDrRJ3ZXqcLKtwZg/1519333391/1b5270a62c62e8bb7ee034d904681d23.m3u8 
 
-#EXTINF:0, Law & Order: SVU 
+#EXTINF:0, Law & Order: SVU
 https://videoserver2.org/live/KviE-0cLm2yEB0nkORXcdQ/1519334745/172d45823df011328d1450903533c9e6.m3u8 
 
-#EXTINF:0, Mafia Movies 
+#EXTINF:0, Mafia Movies
 https://videoserver1.org/live/o7qS1sZrmg9K8SW8abM3Yg/1519334133/e24cc804755b8bdedb516e1a1739300f.m3u8 
 
-#EXTINF:0, Malcolm in the Middle 
+#EXTINF:0, Malcolm in the Middle
 https://videoserver2.org/live/HGBvVVAGquycJ_DWvWNVAA/1519333058/6897191107b1003196abb2efaf0b1e12.m3u8 
 
-#EXTINF:0, Married with Children 
+#EXTINF:0, Married with Children
 https://videoserver2.org/live/md_UXcWMMonmbQEhjfULAQ/1519333182/668ada832799cc84747f015346e54eb0.m3u8 
 
-#EXTINF:0, Mission Impossible 
+#EXTINF:0, Mission Impossible
 https://videoserver1.org/live/p0WG5--LLnzvduWiKoWrBw/1519333647/8195bdb7120be451b93d1ff9a92895ae.m3u8 
