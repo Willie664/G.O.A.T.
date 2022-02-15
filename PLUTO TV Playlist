@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Cult Films
+http://pluto.tv/live-tv/pluto-tv-cult-films?utm_SOURCE=plutotv&utm_medium=share&utm_campaign=1000201&utm_ontent=1000735.m3u8
+
 #EXTINF:-1 tvg-id="dtv_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/logo_20210429_195105_68.png" group-title="Entertainment",Classic Reruns TV
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
