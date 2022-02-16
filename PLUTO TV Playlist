@@ -3,6 +3,9 @@
 #EXTINF:-1,Cult Films
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/569546031a619b8f07ce6e25/572723/playlist.m3u8
 
+#EXTINF:-1,Horror
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/569546031a619b8f07ce6e25/572723/playlist.m3u8
+
 #EXTINF:-1 tvg-id="dtv_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/logo_20210429_195105_68.png" group-title="Entertainment",Classic Reruns TV
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
