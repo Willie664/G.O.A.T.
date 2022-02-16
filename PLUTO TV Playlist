@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Cult Films
-https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37b22717ae989bcffb.m3u8%20cat=Top10
+https://videoserver1.org/live/vDU1eQHcSVPi9Ea96pe6PA/1519333578/ce425ca32dea0f37b22717ae989bcffb.m3u8%20cat=Top10.m3u8
 
 #EXTINF:-1,Horror
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/569546031a619b8f07ce6e25/572723/playlist.m3u8
