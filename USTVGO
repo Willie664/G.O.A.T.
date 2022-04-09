@@ -1,6 +1,31 @@
 
 #EXTM3U
 
+#EXTM3U
+#EXTINF:0,ANIMAL PLANET
+udp://@239.1.1.5:11111
+#EXTINF:0,AXN
+udp://@239.1.1.6:11111
+#EXTINF:0,AXN SCIFI
+udp://@239.1.1.201:11111
+#EXTINF:0,Barandov
+udp://@239.1.2.15:11111
+#EXTINF:0,BBC World News
+udp://@239.1.1.7:11111
+#EXTINF:0,Boomerang
+udp://@239.1.3.2:11111
+#EXTINF:0,Cinemax
+udp://@239.1.1.192:11111
+#EXTINF:0,Cinemax 2
+udp://@239.1.1.193:11111
+#EXTINF:0,Clasic
+udp://@239.1.1.164:11111
+#EXTINF:0,Corton Network
+udp://@239.1.1.23:11111
+#EXTINF:0,TV CNN
+udp://@239.1.1.8:11111
+
+
 #EXTINF:0,BET
 plugin://plugin.video.playlistloader/?action=plutotvPlay&amp;url=http://13.249.60/live/hls.m3u8
 
