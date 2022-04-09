@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WCIV2.us" tvg-logo="http://images4.wikia.nocookie.net/__cb20111017171036/logopedia/images/6/6c/WCIV_ABC_News_4_logo_2011.png" group-title="Local", WCIV Charleston ABC
+plugin://plugin.video.live.streamspro/?url=https://stitcher.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 
 #EXTINF:-1, BET
 http://13.249.60/en/live-tv/black-throwacks/master.m3u8
