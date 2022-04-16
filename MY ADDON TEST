@@ -1,110 +1,15 @@
-$ streamlink -l debug --ffmpeg-verbose https://pluto.tv/live-tv/mtv-spankin-new 240p
-[cli][debug] OS:         Linux-5.4.0-58-generic-x86_64-with-glibc2.29
-[cli][debug] Python: 	3.8.5
-[cli][debug] Streamlink: 2.0.0+1.g374130a
-[cli][debug] Requests(2.25.1), Socks(1.7.1), Websocket(0.57.0)
-[cli][info] Found matching plugin pluto for URL https://pluto.tv/live-tv/mtv-spankin-new
-[utils.l10n][debug] Language code: en_GB
-[cli][info] Available streams: 240p (worst), 480p, 720p_alt, 720p (best)
-[cli][info] Opening stream: 240p (muxed-stream)
-[stream.ffmpegmux][debug] Opening hls substream
-[stream.hls][debug] Reloading playlist
-[stream.hls][debug] First Sequence: 267960612; Last Sequence: 267960617
-[stream.hls][debug] Start offset: 0; Duration: None; Start Sequence: 267960615; End Sequence: None
-[stream.hls][debug] Adding segment 267960615 to queue
-[stream.hls][debug] Adding segment 267960616 to queue
-[stream.hls][debug] Adding segment 267960617 to queue
-[stream.ffmpegmux][debug] ffmpeg command: ffmpeg -nostats -y -i /tmp/ffmpeg-290343-476 -c:v copy -c:a copy -map 0 -f mpegts pipe:1
-[stream.ffmpegmux][debug] Starting copy to pipe: /tmp/ffmpeg-290343-476
-[cli][debug] Pre-buffering 8192 bytes
-ffmpeg version 4.2.4-1ubuntu0.1 Copyright (c) 2000-2020 the FFmpeg developers
-  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
-  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
-  WARNING: library configuration mismatch
-  avcodec     configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared --enable-version3 --disable-doc --disable-programs --enable-libaribb24 --enable-liblensfun --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libtesseract --enable-libvo_amrwbenc
-  libavutil      56. 31.100 / 56. 31.100
-  libavcodec     58. 54.100 / 58. 54.100
-  libavformat    58. 29.100 / 58. 29.100
-  libavdevice    58.  8.100 / 58.  8.100
-  libavfilter 	7. 57.100 /  7. 57.100
-  libavresample   4.  0.  0 /  4.  0.  0
-  libswscale  	5.  5.100 /  5.  5.100
-  libswresample   3.  5.100 /  3.  5.100
-  libpostproc    55.  5.100 / 55.  5.100
-[stream.hls][debug] Download of segment 267960615 complete
-Input #0, mpegts, from '/tmp/ffmpeg-290343-476':
-  Duration: N/A, start: 38068.935844, bitrate: N/A
-  Program 1
-	Stream #0:0[0x7d0](eng): Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 123 kb/s
-	Stream #0:1[0x3e8]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, progressive), 426x240 [SAR 1:1 DAR 71:40], Closed Captions, 29.97 fps, 29.97 tbr, 90k tbn, 59.94 tbc
-Output #0, mpegts, to 'pipe:1':
-  Metadata:
-	encoder     	: Lavf58.29.100
-	Stream #0:0(eng): Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 123 kb/s
-	Stream #0:1: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(tv, progressive), 426x240 [SAR 1:1 DAR 71:40], q=2-31, 29.97 fps, 29.97 tbr, 90k tbn, 90k tbc
-Stream mapping:
-  Stream #0:0 -> #0:0 (copy)
-  Stream #0:1 -> #0:1 (copy)
-Press [q] to stop, [?] for help
-[cli][info] Starting player: mpv
-[cli.output][debug] Opening subprocess: mpv --force-media-title=https://pluto.tv/live-tv/mtv-spankin-new -
-[cli][debug] Writing stream to output
-[stream.hls][debug] Reloading playlist
-[stream.hls][debug] Download of segment 267960616 complete
-[stream.hls][debug] Adding segment 267960618 to queue
-[stream.hls][debug] Adding segment 267960619 to queue
-[stream.hls][debug] Download of segment 267960617 complete
-...
-stream.hls][debug] Reloading playlist
-[stream.hls][debug] Adding segment 267960672 to queue
-[stream.hls][debug] Adding segment 267960673 to queue
-[stream.hls][debug] Download of segment 267960655 complete
-[mpegts @ 0x55c85b7ee740] New video stream 0:2 at pos:16900636 and DTS:1.42133s
-[mpegts @ 0x55c85b7ee740] New audio stream 0:3 at pos:16907968 and DTS:1.4s
-...
-[stream.hls][debug] Reloading playlist
-[stream.hls][debug] Adding segment 267960679 to queue
-[stream.hls][debug] Download of segment 267960658 complete
-[stream.hls][debug] Adding segment 267960680 to queue
-[mpegts @ 0x55c85b7ee740] DTS 129840 < 1474320 out of order
-[stream.hls][debug] Download of segment 267960659 complete
-[stream.hls][debug] Adding segment 267960681 to queue
-[stream.ffmpegmux][error] Pipe copy aborted: /tmp/ffmpeg-290343-476
-[stream.hls][debug] Download of segment 267960660 complete
-[stream.hls][debug] Reloading playlist
-[stream.hls][debug] Adding segment 267960694 to queue
-[stream.hls][debug] Download of segment 267960661 complete
-[stream.hls][debug] Adding segment 267960695 to queue
- 
-
-$ streamlink https://pluto.tv/en/live-tv/pluto-tv-cine-estelar-1 570k
-[cli][info] Found matching plugin pluto for URL https://pluto.tv/en/live-tv/pluto-tv-cine-estelar-1
-[cli][info] Available streams: 570k (worst), 1000k, 1500k, 2100k, 3100k (best)
-[cli][info] Opening stream: 570k (muxed-stream)
-[utils.named_pipe][info] Creating pipe streamlinkpipe-992201-1-9249
-[cli][info] Starting player: mpv
-[stream.hls][info] Filtering out segments and pausing stream output
-[stream.hls][info] Resuming stream output
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
-
-
-$ streamlink --http-proxy 'socks4://localhost:9050' https://pluto.tv/live-tv/mtv-spankin-new 240p
-[cli][info] Found matching plugin pluto for URL https://pluto.tv/live-tv/mtv-spankin-new
-[cli][info] Available streams: 240p (worst), 360p, 480p_alt, 480p, 720p (best)
-[cli][info] Opening stream: 240p (hls-pluto)
-[cli][info] Starting player: mpv
-[stream.hls][info] Filtering out segments and pausing stream output
-[stream.hls][info] Resuming stream output
-[stream.hls][info] Filtering out segments and pausing stream output
-[stream.hls][info] Resuming stream output
- 
-$ streamlink https://pluto.tv/en/live-tv/pluto-tv-sci-fi-gb 570k
-[cli][info] Found matching plugin pluto for URL https://pluto.tv/en/live-tv/pluto-tv-sci-fi-gb
-[cli][info] Available streams: 570k (worst), 1000k, 1500k, 2100k, 3100k (best)
-[cli][info] Opening stream: 570k (hls-pluto)
-[cli][info] Starting player: mpv
-[stream.hls][info] Filtering out segments and pausing stream output
-[stream.hls][info] Resuming stream output
-
+<?xml version="1.0"
+encoding="UTF-8"?
+>
+<item>
+<channel>
+	<title>Channel
+1<title>
+	<description>
+<description>
+	<stream_url><!
+[CDATA[http://18.65.229.16:443]]>
+</stream_url>
+</channel>
+</items>
+	
