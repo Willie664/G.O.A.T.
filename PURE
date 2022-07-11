@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , Playboy
+http://188.35.9.12:21101/udp/127h
+
+#EXTINF:-1,UK: BRAZEERS TV 
+http://91.92.108.254:8080/udp/239.100.10.190:5000 
+
+#EXTINF:-1,UK: DORCEL TV 
+http://91.92.108.254:8080/udp/239.10.10.155:5000 
+
+#EXTINF:-1, tvg-id="Miami Tv" tvg-logo="logos/miami_tv.jpg" tvg-name="Miami Tv"  group-title="Adult",Miami Tv
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1,UK: VIVID RED 
+http://188.35.9.12:21131/udp/142d
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB  - MAIN STAGE
+https://56411cca68c27.streamlock.net/2001guest/smil:2001MS_guest.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB - DRESSING  ROOM
 https://56411cca68c27.streamlock.net/2001guest/smil:2001DR_guest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Ass
@@ -48,7 +67,15 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Threesome
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="OTHER",Other - Seventeen Video 01
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+
 ##########NEW MIX#######
+
+#EXTINF:-1, CN ADULT HD
+http://iptvnation.com/porn/video1080p.mp4
+
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Teen
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1, tvg-id="RedTraffic Teen" tvg-logo="logos/red-traffic.jpg" tvg-name="RedTraffic Teen"  group-title="Adult",RedTraffic Big Ass
