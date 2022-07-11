@@ -1,25 +1,14 @@
 #EXTM3U
 
-#EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , Playboy
-http://188.35.9.12:21101/udp/127h
-
-#EXTINF:-1,UK: BRAZEERS TV 
-http://91.92.108.254:8080/udp/239.100.10.190:5000 
-
-#EXTINF:-1,UK: DORCEL TV 
-http://91.92.108.254:8080/udp/239.10.10.155:5000 
-
 #EXTINF:-1, tvg-id="Miami Tv" tvg-logo="logos/miami_tv.jpg" tvg-name="Miami Tv"  group-title="Adult",Miami Tv
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
 #EXTINF:-1,UK: VIVID RED 
 http://188.35.9.12:21131/udp/142d
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB  - MAIN STAGE
-https://56411cca68c27.streamlock.net/2001guest/smil:2001MS_guest.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB - DRESSING  ROOM
 https://56411cca68c27.streamlock.net/2001guest/smil:2001DR_guest.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Ass
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 
@@ -2156,9 +2145,3 @@ http://media.videopornoitaliano.com:81/videos/5/8/3/7/e/5837efc8c3834.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cuBqYs5.png" group-title="PORNO ITALIA",Porno Italia - VOD 07 - Rossana...
 http://media.videopornoitaliano.com:81/videos/5/8/4/c/8/584c80c537f54.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cuBqYs5.png" group-title="PORNO ITALIA",Porno Italia - VOD 08 - Sposa...
-http://streaming.videopornoitalia.com:81/5/8/a/5/1/58a5189017155.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cuBqYs5.png" group-title="PORNO ITALIA",Porno Italia - VOD 09 - Turiste...
-http://media.videopornoitaliano.com:81/videos/5/8/1/9/c/5819c03bc8715.mp4
