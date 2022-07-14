@@ -1,7 +1,8 @@
 	
 #EXTM3U
 
-#EXTINF:0,HBO<https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8>
+#EXTINF:0,HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
 #EXTINF:0,OWN
 plugin://plugin.video.live.streamspro/?url=https://h1.ustvgo.la/OWN/myStream/chunks.m3u8?nimblesessionid=269043929&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDEwOjAzOjI1IFBNJmhhc2hfdmFsdWU9R0NYZ2h0QnZoOEdnajRoeE1SOWNVZz09JnZhbGlkbWludXRlcz0yNDA=
