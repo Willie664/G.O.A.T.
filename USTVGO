@@ -1,12 +1,9 @@
 
 #EXTM3U
 https://thetvapp.to/
-#EXTINF:-1, A&E
-https://thetvapp.to/tv/ae-live-stream/
-#EXTINF:-1, AMC
-https://thetvapp.to/tv/amc-live-stream/
-#EXTINF:-1, ANIMAL PLANET
-https://thetvapp.to/tv/animal-planet-live-stream/
+#EXTINF:-1, A&E https://thetvapp.to/tv/ae-live-stream/
+#EXTINF:-1, AMC https://thetvapp.to/tv/amc-live-stream/
+#EXTINF:-1, ANIMAL PLANET https://thetvapp.to/tv/animal-planet-live-stream/
 #EXTINF:-1, A&E
 https://thetvapp.to/tv/bet-live-stream/
 #EXTINF:-1, BET
