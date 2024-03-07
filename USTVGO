@@ -1,25 +1,26 @@
 
 #EXTM3U
 
-#EXTINF:0, A&E
-udp://https://thetvapp.to/tv/ae-live-stream/
+#EXTINF:0,LOL,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5af09e645126c2157123f9eb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:0,A&E,udp://https://thetvapp.to/tv/ae-live-stream/
 
 #EXTINF:0,BET
 plugin://plugin.video.playlistloader/?action= thetvapp.to/Play&amp;url=https://thetvapp.to/tv/bet-her-live-stream/
 
-#EXTINF:-1, AMC
+#EXTINF:-1,AMC
 https://thetvapp.to/tv/amc-live-stream/
 
-#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1,ANIMAL PLANET
 https://thetvapp.to/tv/animal-planet-live-stream/
 
-#EXTINF:-1, A&E
+#EXTINF:-1,A&E
 https://thetvapp.to/tv/bet-live-stream/
 
-#EXTINF:-1, BET
+#EXTINF:-1,BET
 https://thetvapp.to/tv/bet-her-live-stream/
 
-#EXTINF:-1, BRAVO
+#EXTINF:-1,BRAVO
 https://thetvapp.to/tv/bravo-live-stream/
 
 
