@@ -1,9 +1,10 @@
 
 #EXTM3U
-
-#EXTINF:-1, A&E 
-https://thetvapp.to/tv/ae-live-stream/
-#EXTINF:-1, AMC 
+#EXTINF:0, A&E
+udp://https://thetvapp.to/tv/ae-live-stream/
+#EXTINF:0,BET
+plugin://plugin.video.playlistloader/?action= thetvapp.to/Play&amp;url=https://thetvapp.to/tv/bet-her-live-stream/
+#EXTINF:-1, AMC
 https://thetvapp.to/tv/amc-live-stream/
 #EXTINF:-1, ANIMAL PLANET
 https://thetvapp.to/tv/animal-planet-live-stream/
@@ -13,10 +14,7 @@ https://thetvapp.to/tv/bet-live-stream/
 https://thetvapp.to/tv/bet-her-live-stream/
 #EXTINF:-1, BRAVO
 https://thetvapp.to/tv/bravo-live-stream/
-#EXTINF:0,A&E
-udp://https://thetvapp.to/tv/ae-live-stream/
-#EXTINF:0,BET
-plugin://plugin.video.playlistloader/?action= thetvapp.to/Play&amp;url=https://thetvapp.to/tv/bet-her-live-stream/
+
 
 
 
