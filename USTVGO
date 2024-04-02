@@ -2,8 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1,BET
-https://v5.thetvapp.to/hls/BETEast_low.m3u8?token=NB47fxe4lLvsOv3wbnRbcw&expires=1712114525
-
+https://v1.thetvapp.to/hls/CNBC_low.m3u8?token=7meNmcHYKLhtaZCAPPYqfA&expires=1712116982
 #EXTINF:0,BET
 https://v2.thetvapp.to/hls/BETEast_low-175261.ts
 
