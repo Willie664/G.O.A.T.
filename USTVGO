@@ -1,6 +1,7 @@
 
 #EXTM3U
-#EXTINF:-1,BET https://v3.thetvapp.to/hls/BETEast_low.m3u8?token=dQdfKJpLhqV_cjFihX8r5Q&expires=1710820805
+#EXTINF:-1,BET
+https://v5.thetvapp.to/hls/BETEast_low.m3u8?token=NB47fxe4lLvsOv3wbnRbcw&expires=1712114525
 
 #EXTINF:0,BET
 https://v2.thetvapp.to/hls/BETEast_low-175261.ts
