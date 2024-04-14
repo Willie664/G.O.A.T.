@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,A&E
-https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=-r-L-3ZMgfdyu4_6zWUGlQ&expires=1713078065=https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=S2jmIIfmUU5BvAZTPoczzw&expires=1713078125
-#EXTINF:-1,AMC
+https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=-r-L-3ZMgfdyu4_6zWUGlQ&expires=1713078065&https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=S2jmIIfmUU5BvAZTPoczzw&expires=1713078125#EXTINF:-1,AMC
 https://v8.thetvapp.to/hls/AMCEast_low.m3u8?token=AfJGoKFChhkytcrgwCwFBg&expires=1712116565
 #EXTINF:-1,American Heroes Channel
 https://v8.thetvapp.to/hls/AmericanHeroesChannel_low.m3u8?token=87PLCuhwBsoYZ5_uKjAQUg&expires=1712116562
