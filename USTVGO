@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0,BET
-https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=-r-L-3ZMgfdyu4_6zWUGlQ&expires=1713078065&https://v3.thetvapp.to/hls/BETEast_high.m3u8?token=S2jmIIfmUU5BvAZTPoczzw&expires=1713078125
+#EXTINF:-1 tvg-id="WNYT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Wnyt_2008.png" group-title="Local", WNYT ALBANY NBC
+plugin://plugin.video.live.streamspro/?urlhttps://v1.thetvapp.to/hls/BETEast_low.m3u8?token=Oh9xbgOMccU8qpYgXmPGUA&expires=1713343925&https://v1.thetvapp.to/hls/BETEast_low.m3u8?token=Oh9xbgOMccU8qpYgXmPGUA&expires=1713343925https%3A//raw.githubusercontent.com/ericziethen/ez-iptvcat-scraper/master/data/countries/united%2520states%2520of%2520america.json%27%2C%20%27cookiejar%27%3A%20%27%27%7D%7D
